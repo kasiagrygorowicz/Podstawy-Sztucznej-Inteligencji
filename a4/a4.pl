@@ -1,5 +1,5 @@
-:- dynamic xpositive/4.
-:- dynamic xnegative/4.
+:- dynamic xpositive/2.
+:- dynamic xnegative/2.
 
 phone_is(iphone_13):-
     it_is(apple),
@@ -62,69 +62,72 @@ phone_is(xperia_10_III):-
 
 it_is(sony):-
     positive(is,from_japan),
-    negative(has,high_price).
+    negative(has,high_price),!.
 
 it_is(samsung):-
     positive(is,from_korea), 
-    positive(has,high_price).
+    positive(has,high_price),!.
     
 it_is(apple):-
     positive(is,from_us), 
-    positive(has,high_price).
+    positive(has,high_price),!.
 
 it_is(android):-
     negative(does,run_fast),
-    positive(is,open_source).
+    positive(is,open_source),!.
 
-it_is(iso):-
+it_is(ios):-
     positive(does,run_fast),
-    negative(is,open_source).
+    negative(is,open_source),!.
 
 % Szukanie potwierdzenia cechy obiektu w dynamicznej bazie
-positive(X,Y):- xpositive(X,Y),!.
-positive(X,Y):- not(xnegative(X,Y)), ask(X,Y,yes).
-negative(X,Y):- xnegative(X,Y),!.
-negative(X,Y):- not(xpositive(X,Y)), ask(X,Y,no).
 
-% Zadawanie pytań użytkownikowi
-ask(X,Y,yes):-
-    write(X), write(' it '), write(Y), write('\n'),
-    read(Replay),
-    sub_string(Replay,0,1,_,'y'),!,
-    remember(X,Y,yes).
+positive(X,Y) :- 
+    xpositive(X,Y), !. 
+positive(X,Y) :-
+    not(xnegative(X,Y)) ,
+    ask(X,Y).
 
-ask(X,Y,no):-
-    write(X), write(' it '), write(Y), write('\n'),
-    read(Replay),
-    sub_string(Replay,0,1,_,'no'),!,
-    remember(X,Y,no).
+negative(X,Y) :- 
+    xnegative(X,Y), !.
+negative(X,Y) :-
+    not(xpositive(X,Y)) ,
+    ask(X,Y).
+
+%4. Zadawanie pytań użytkownikowi
+ask(X,Y) :-
+    write(X), write(' it '),write(Y), write('\n'),
+    read(Reply),
+    (sub_string(Reply,0,1,_,'y') 
+    -> remember_y(X,Y), write('yes'), nl  
+    ; (sub_string(Reply,0,1,_,'n') 
+        -> remember_n(X,Y), write('no'), nl, fail  
+        ; ask(X,Y)) ),
+     !.
 
 
-ask(X,Y,no) :-
-    remember(X,Y,no), fail.
 
-ask(X,Y,yes) :-
-    remember(X,Y,yes), fail.
+%5. Zapamiętanie odpowiedzi w dynamicznej bazie
+remember_y(X,Y) :- assert(xpositive(X,Y)).
 
-% Zapamiętanie odpowiedzi w dynamicznej bazie
-remember(X,Y,yes):-
-    assert(xpositive(X,Y)).
-remember(X,Y,no):-
-    assert(xnegative(X,Y)).
+remember_n(X,Y) :- assert(xnegative(X,Y)).
 
-% Uruchomienie programu
-run:-
+
+%6. Uruchomienie programu
+run :-
     phone_is(X),!,
-    write('\nYour phone could be a(n) '), write(X),
+    write('\nYour phone may be a(n) '),write(X),
     nl,nl,clear_facts.
-run:-
-    write('\nUnable to determine what your phone is\n\n'),
-     clear_facts.
 
-% Wyczyszczenie zawartości dynamicznej bazy
-clear_facts:-
+run :-
+    write('\nUnable to determine what'),
+    write('your phone is.\n\n'),clear_facts.
+
+
+%7. Wyczyszczenie zawartości dynamicznej bazy
+clear_facts :-
     retract(xpositive(_,_)),fail.
-clear_facts:-
+clear_facts :-
     retract(xnegative(_,_)),fail.
-clear_facts:-
+clear_facts :-
     write('\n\nPlease press the space bar to exit\n').
