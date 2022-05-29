@@ -1,0 +1,3 @@
+Porównać populację przed skalowaniem i po skalowaniu
+Wybrać jedną z puli metodę selekcji i przeliczyć jedną iterację na przeskalowanej i nieprzeskalowanej populacji tymi metodami.
+Czy selekcja się zmieniła - wykresy punktowe, by ocenić wartość przystosowania porównać wykresami pudełkowymi rozkład wartości.
