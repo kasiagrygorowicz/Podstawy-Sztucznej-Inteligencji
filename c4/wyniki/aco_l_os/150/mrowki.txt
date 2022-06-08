@@ -1,0 +1,1000 @@
+Pokolenie nr=    0 najlepszy=  0(dl=16.404837), najgorszy= 44(dl=22.707665), œrednia_dl=19.490523
+Pokolenie nr=    1 najlepszy=  6(dl=18.170726), najgorszy= 75(dl=23.816669), œrednia_dl=19.819551
+Pokolenie nr=    2 najlepszy= 29(dl=17.430323), najgorszy= 69(dl=21.427700), œrednia_dl=19.638430
+Pokolenie nr=    3 najlepszy=  0(dl=17.430323), najgorszy= 23(dl=21.229668), œrednia_dl=19.363836
+Pokolenie nr=    4 najlepszy=  0(dl=17.430323), najgorszy=141(dl=23.751312), œrednia_dl=19.466172
+Pokolenie nr=    5 najlepszy=  0(dl=17.430323), najgorszy=103(dl=21.354554), œrednia_dl=19.411938
+Pokolenie nr=    6 najlepszy=  0(dl=17.430323), najgorszy= 19(dl=22.941470), œrednia_dl=19.360947
+Pokolenie nr=    7 najlepszy=  0(dl=17.430323), najgorszy= 57(dl=21.331321), œrednia_dl=19.220523
+Pokolenie nr=    8 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=22.926256), œrednia_dl=19.275538
+Pokolenie nr=    9 najlepszy=  0(dl=17.430323), najgorszy= 61(dl=21.991614), œrednia_dl=19.263711
+Pokolenie nr=   10 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=22.941470), œrednia_dl=19.217320
+Pokolenie nr=   11 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=22.941470), œrednia_dl=19.133988
+Pokolenie nr=   12 najlepszy=  0(dl=17.430323), najgorszy=116(dl=20.370423), œrednia_dl=19.175483
+Pokolenie nr=   13 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=22.343174), œrednia_dl=19.081086
+Pokolenie nr=   14 najlepszy=  0(dl=17.430323), najgorszy= 63(dl=22.941470), œrednia_dl=19.189650
+Pokolenie nr=   15 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=22.956080), œrednia_dl=19.161517
+Pokolenie nr=   16 najlepszy=  0(dl=17.430323), najgorszy= 26(dl=19.770044), œrednia_dl=19.096786
+Pokolenie nr=   17 najlepszy=  0(dl=17.430323), najgorszy= 62(dl=22.194480), œrednia_dl=19.212023
+Pokolenie nr=   18 najlepszy=  0(dl=17.430323), najgorszy= 31(dl=22.941470), œrednia_dl=19.161825
+Pokolenie nr=   19 najlepszy=  0(dl=17.430323), najgorszy= 54(dl=22.360133), œrednia_dl=19.096975
+Pokolenie nr=   20 najlepszy=  0(dl=17.430323), najgorszy=  6(dl=22.209568), œrednia_dl=19.100373
+Pokolenie nr=   21 najlepszy=  0(dl=17.430323), najgorszy=139(dl=21.655219), œrednia_dl=19.075577
+Pokolenie nr=   22 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=21.212456), œrednia_dl=19.197959
+Pokolenie nr=   23 najlepszy=  0(dl=17.430323), najgorszy= 46(dl=22.892335), œrednia_dl=19.099619
+Pokolenie nr=   24 najlepszy=  0(dl=17.430323), najgorszy= 84(dl=22.941470), œrednia_dl=18.949338
+Pokolenie nr=   25 najlepszy=  0(dl=17.430323), najgorszy=112(dl=21.009324), œrednia_dl=18.999686
+Pokolenie nr=   26 najlepszy=  0(dl=17.430323), najgorszy= 42(dl=20.963726), œrednia_dl=19.029326
+Pokolenie nr=   27 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=22.941470), œrednia_dl=19.151830
+Pokolenie nr=   28 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=22.485158), œrednia_dl=19.110884
+Pokolenie nr=   29 najlepszy=  0(dl=17.430323), najgorszy=139(dl=22.281127), œrednia_dl=19.137236
+Pokolenie nr=   30 najlepszy=  0(dl=17.430323), najgorszy= 42(dl=22.624299), œrednia_dl=19.091108
+Pokolenie nr=   31 najlepszy=  0(dl=17.430323), najgorszy= 71(dl=22.941470), œrednia_dl=19.041596
+Pokolenie nr=   32 najlepszy=  0(dl=17.430323), najgorszy= 26(dl=21.366209), œrednia_dl=19.125392
+Pokolenie nr=   33 najlepszy=  0(dl=17.430323), najgorszy= 92(dl=22.600490), œrednia_dl=19.058431
+Pokolenie nr=   34 najlepszy=  0(dl=17.430323), najgorszy= 90(dl=22.306200), œrednia_dl=19.052816
+Pokolenie nr=   35 najlepszy=  0(dl=17.430323), najgorszy=132(dl=20.713756), œrednia_dl=19.183835
+Pokolenie nr=   36 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=21.993509), œrednia_dl=19.076155
+Pokolenie nr=   37 najlepszy=  0(dl=17.430323), najgorszy= 91(dl=20.984578), œrednia_dl=19.046164
+Pokolenie nr=   38 najlepszy=  0(dl=17.430323), najgorszy=116(dl=21.480623), œrednia_dl=19.189056
+Pokolenie nr=   39 najlepszy=  0(dl=17.430323), najgorszy= 66(dl=22.360133), œrednia_dl=19.194289
+Pokolenie nr=   40 najlepszy=  0(dl=17.430323), najgorszy=102(dl=24.248646), œrednia_dl=19.204267
+Pokolenie nr=   41 najlepszy=  0(dl=17.430323), najgorszy= 96(dl=21.548795), œrednia_dl=18.983933
+Pokolenie nr=   42 najlepszy=  0(dl=17.430323), najgorszy= 67(dl=22.941470), œrednia_dl=19.110683
+Pokolenie nr=   43 najlepszy=  0(dl=17.430323), najgorszy= 68(dl=19.999533), œrednia_dl=19.165887
+Pokolenie nr=   44 najlepszy=  0(dl=17.430323), najgorszy= 61(dl=22.475133), œrednia_dl=19.065443
+Pokolenie nr=   45 najlepszy=  0(dl=17.430323), najgorszy= 29(dl=22.656086), œrednia_dl=19.171789
+Pokolenie nr=   46 najlepszy=  0(dl=17.430323), najgorszy= 77(dl=21.550366), œrednia_dl=19.174291
+Pokolenie nr=   47 najlepszy=  0(dl=17.430323), najgorszy= 37(dl=21.510676), œrednia_dl=19.164058
+Pokolenie nr=   48 najlepszy=  0(dl=17.430323), najgorszy=108(dl=21.077442), œrednia_dl=19.339516
+Pokolenie nr=   49 najlepszy=  0(dl=17.430323), najgorszy= 77(dl=22.281127), œrednia_dl=19.253161
+Pokolenie nr=   50 najlepszy=  0(dl=17.430323), najgorszy=114(dl=22.662636), œrednia_dl=19.127958
+Pokolenie nr=   51 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=22.662636), œrednia_dl=18.903837
+Pokolenie nr=   52 najlepszy=  0(dl=17.430323), najgorszy= 80(dl=22.660687), œrednia_dl=19.179801
+Pokolenie nr=   53 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=21.710014), œrednia_dl=18.945546
+Pokolenie nr=   54 najlepszy=  0(dl=17.430323), najgorszy=145(dl=19.985018), œrednia_dl=19.122009
+Pokolenie nr=   55 najlepszy=  0(dl=17.430323), najgorszy= 40(dl=22.660687), œrednia_dl=19.062757
+Pokolenie nr=   56 najlepszy=  0(dl=17.430323), najgorszy=101(dl=21.918207), œrednia_dl=19.143235
+Pokolenie nr=   57 najlepszy=  0(dl=17.430323), najgorszy=110(dl=20.168081), œrednia_dl=18.989684
+Pokolenie nr=   58 najlepszy=  0(dl=17.430323), najgorszy=135(dl=20.841677), œrednia_dl=19.045287
+Pokolenie nr=   59 najlepszy=  0(dl=17.430323), najgorszy= 42(dl=22.660687), œrednia_dl=19.229168
+Pokolenie nr=   60 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=22.662636), œrednia_dl=18.977438
+Pokolenie nr=   61 najlepszy=  0(dl=17.430323), najgorszy=125(dl=22.662636), œrednia_dl=19.140053
+Pokolenie nr=   62 najlepszy=  0(dl=17.430323), najgorszy=124(dl=23.638831), œrednia_dl=19.207532
+Pokolenie nr=   63 najlepszy=  0(dl=17.430323), najgorszy=113(dl=18.950651), œrednia_dl=19.067092
+Pokolenie nr=   64 najlepszy=  0(dl=17.430323), najgorszy= 88(dl=20.942911), œrednia_dl=19.035982
+Pokolenie nr=   65 najlepszy=  0(dl=17.430323), najgorszy= 81(dl=22.662636), œrednia_dl=19.128784
+Pokolenie nr=   66 najlepszy=  0(dl=17.430323), najgorszy=112(dl=20.942911), œrednia_dl=19.223010
+Pokolenie nr=   67 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=21.966565), œrednia_dl=19.155400
+Pokolenie nr=   68 najlepszy=  0(dl=17.430323), najgorszy= 53(dl=22.276339), œrednia_dl=19.039372
+Pokolenie nr=   69 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=22.662636), œrednia_dl=19.145939
+Pokolenie nr=   70 najlepszy=  0(dl=17.430323), najgorszy= 48(dl=23.576523), œrednia_dl=19.177249
+Pokolenie nr=   71 najlepszy=  0(dl=17.430323), najgorszy= 77(dl=22.304024), œrednia_dl=19.106598
+Pokolenie nr=   72 najlepszy=  0(dl=17.430323), najgorszy= 25(dl=23.972135), œrednia_dl=19.215997
+Pokolenie nr=   73 najlepszy=  0(dl=17.430323), najgorszy=142(dl=19.915470), œrednia_dl=19.228598
+Pokolenie nr=   74 najlepszy=  0(dl=17.430323), najgorszy= 88(dl=22.835250), œrednia_dl=19.122030
+Pokolenie nr=   75 najlepszy=  0(dl=17.430323), najgorszy= 35(dl=19.826531), œrednia_dl=19.201340
+Pokolenie nr=   76 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=21.977794), œrednia_dl=19.152019
+Pokolenie nr=   77 najlepszy=  0(dl=17.430323), najgorszy= 90(dl=21.213977), œrednia_dl=19.077077
+Pokolenie nr=   78 najlepszy=  0(dl=17.430323), najgorszy=100(dl=21.064490), œrednia_dl=19.128183
+Pokolenie nr=   79 najlepszy=  0(dl=17.430323), najgorszy= 49(dl=22.219676), œrednia_dl=19.205697
+Pokolenie nr=   80 najlepszy=  0(dl=17.430323), najgorszy= 19(dl=21.863951), œrednia_dl=19.203608
+Pokolenie nr=   81 najlepszy=  0(dl=17.430323), najgorszy=133(dl=22.346152), œrednia_dl=19.303971
+Pokolenie nr=   82 najlepszy=  0(dl=17.430323), najgorszy= 68(dl=22.014775), œrednia_dl=19.035473
+Pokolenie nr=   83 najlepszy=  0(dl=17.430323), najgorszy= 84(dl=21.769267), œrednia_dl=19.003610
+Pokolenie nr=   84 najlepszy=  0(dl=17.430323), najgorszy= 36(dl=21.717699), œrednia_dl=19.161896
+Pokolenie nr=   85 najlepszy=  0(dl=17.430323), najgorszy=119(dl=21.767242), œrednia_dl=19.179246
+Pokolenie nr=   86 najlepszy=  0(dl=17.430323), najgorszy= 85(dl=21.863951), œrednia_dl=19.223154
+Pokolenie nr=   87 najlepszy=  0(dl=17.430323), najgorszy=113(dl=19.915470), œrednia_dl=19.224978
+Pokolenie nr=   88 najlepszy=  0(dl=17.430323), najgorszy= 83(dl=21.213977), œrednia_dl=19.241156
+Pokolenie nr=   89 najlepszy=  0(dl=17.430323), najgorszy=110(dl=21.767988), œrednia_dl=19.316614
+Pokolenie nr=   90 najlepszy=  0(dl=17.430323), najgorszy= 45(dl=21.769267), œrednia_dl=19.181667
+Pokolenie nr=   91 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=22.380467), œrednia_dl=19.277723
+Pokolenie nr=   92 najlepszy=  0(dl=17.430323), najgorszy= 54(dl=21.213977), œrednia_dl=19.428223
+Pokolenie nr=   93 najlepszy=  0(dl=17.430323), najgorszy= 44(dl=21.213977), œrednia_dl=19.354684
+Pokolenie nr=   94 najlepszy=  0(dl=17.430323), najgorszy= 65(dl=21.213977), œrednia_dl=19.300734
+Pokolenie nr=   95 najlepszy=  0(dl=17.430323), najgorszy= 88(dl=21.420670), œrednia_dl=19.287771
+Pokolenie nr=   96 najlepszy=  0(dl=17.430323), najgorszy=128(dl=21.767242), œrednia_dl=19.354940
+Pokolenie nr=   97 najlepszy=  0(dl=17.430323), najgorszy=107(dl=22.662636), œrednia_dl=19.258927
+Pokolenie nr=   98 najlepszy=  0(dl=17.430323), najgorszy= 95(dl=21.420670), œrednia_dl=19.201995
+Pokolenie nr=   99 najlepszy=  0(dl=17.430323), najgorszy= 65(dl=21.552689), œrednia_dl=19.293319
+Pokolenie nr=  100 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=22.155370), œrednia_dl=19.441820
+Pokolenie nr=  101 najlepszy=  0(dl=17.430323), najgorszy=112(dl=23.324623), œrednia_dl=19.370759
+Pokolenie nr=  102 najlepszy=  0(dl=17.430323), najgorszy= 50(dl=19.925022), œrednia_dl=19.268545
+Pokolenie nr=  103 najlepszy=  0(dl=17.430323), najgorszy=102(dl=21.262590), œrednia_dl=19.251882
+Pokolenie nr=  104 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=20.990871), œrednia_dl=19.269287
+Pokolenie nr=  105 najlepszy=  0(dl=17.430323), najgorszy= 51(dl=21.581901), œrednia_dl=19.349751
+Pokolenie nr=  106 najlepszy=  0(dl=17.430323), najgorszy= 90(dl=19.760424), œrednia_dl=19.241722
+Pokolenie nr=  107 najlepszy=  0(dl=17.430323), najgorszy=121(dl=19.915470), œrednia_dl=19.251109
+Pokolenie nr=  108 najlepszy=  0(dl=17.430323), najgorszy= 13(dl=22.179318), œrednia_dl=19.370486
+Pokolenie nr=  109 najlepszy=  0(dl=17.430323), najgorszy= 75(dl=22.264018), œrednia_dl=19.258418
+Pokolenie nr=  110 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=21.256139), œrednia_dl=19.285830
+Pokolenie nr=  111 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=21.421424), œrednia_dl=19.385022
+Pokolenie nr=  112 najlepszy=  0(dl=17.430323), najgorszy=116(dl=22.306129), œrednia_dl=19.339374
+Pokolenie nr=  113 najlepszy=  0(dl=17.430323), najgorszy=103(dl=20.463582), œrednia_dl=19.260228
+Pokolenie nr=  114 najlepszy=  0(dl=17.430323), najgorszy=147(dl=23.032653), œrednia_dl=19.539270
+Pokolenie nr=  115 najlepszy=  0(dl=17.430323), najgorszy= 90(dl=21.908473), œrednia_dl=19.189330
+Pokolenie nr=  116 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=19.968148), œrednia_dl=19.180785
+Pokolenie nr=  117 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=23.173007), œrednia_dl=19.112868
+Pokolenie nr=  118 najlepszy=  0(dl=17.430323), najgorszy= 77(dl=19.915470), œrednia_dl=19.242520
+Pokolenie nr=  119 najlepszy=  0(dl=17.430323), najgorszy=104(dl=21.796478), œrednia_dl=19.602111
+Pokolenie nr=  120 najlepszy=  0(dl=17.430323), najgorszy=109(dl=22.044411), œrednia_dl=19.441099
+Pokolenie nr=  121 najlepszy=  0(dl=17.430323), najgorszy=110(dl=20.304579), œrednia_dl=19.397924
+Pokolenie nr=  122 najlepszy=  0(dl=17.430323), najgorszy=123(dl=22.306129), œrednia_dl=19.392973
+Pokolenie nr=  123 najlepszy=  0(dl=17.430323), najgorszy=117(dl=21.286167), œrednia_dl=19.294278
+Pokolenie nr=  124 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=21.338827), œrednia_dl=19.299138
+Pokolenie nr=  125 najlepszy=  0(dl=17.430323), najgorszy= 27(dl=21.462832), œrednia_dl=19.262351
+Pokolenie nr=  126 najlepszy=  0(dl=17.430323), najgorszy=149(dl=21.581901), œrednia_dl=19.319424
+Pokolenie nr=  127 najlepszy=  0(dl=17.430323), najgorszy= 97(dl=18.937327), œrednia_dl=19.104749
+Pokolenie nr=  128 najlepszy=  0(dl=17.430323), najgorszy=131(dl=22.105158), œrednia_dl=19.259929
+Pokolenie nr=  129 najlepszy=  0(dl=17.430323), najgorszy= 61(dl=20.139518), œrednia_dl=19.233570
+Pokolenie nr=  130 najlepszy=  0(dl=17.430323), najgorszy= 31(dl=21.256139), œrednia_dl=19.352114
+Pokolenie nr=  131 najlepszy=  0(dl=17.430323), najgorszy=110(dl=22.478380), œrednia_dl=19.451157
+Pokolenie nr=  132 najlepszy=  0(dl=17.430323), najgorszy=114(dl=22.413506), œrednia_dl=19.391052
+Pokolenie nr=  133 najlepszy=  0(dl=17.430323), najgorszy= 32(dl=21.213977), œrednia_dl=19.245245
+Pokolenie nr=  134 najlepszy=  0(dl=17.430323), najgorszy= 74(dl=22.306129), œrednia_dl=19.282098
+Pokolenie nr=  135 najlepszy=  0(dl=17.430323), najgorszy= 75(dl=21.036456), œrednia_dl=19.422559
+Pokolenie nr=  136 najlepszy=  0(dl=17.430323), najgorszy= 59(dl=23.525594), œrednia_dl=19.419390
+Pokolenie nr=  137 najlepszy=  0(dl=17.430323), najgorszy=107(dl=21.064490), œrednia_dl=19.653905
+Pokolenie nr=  138 najlepszy=  0(dl=17.430323), najgorszy=140(dl=20.781823), œrednia_dl=19.473959
+Pokolenie nr=  139 najlepszy=  0(dl=17.430323), najgorszy= 22(dl=19.760424), œrednia_dl=19.396143
+Pokolenie nr=  140 najlepszy=  0(dl=17.430323), najgorszy= 97(dl=22.179318), œrednia_dl=19.533488
+Pokolenie nr=  141 najlepszy=  0(dl=17.430323), najgorszy=  6(dl=23.745255), œrednia_dl=19.506888
+Pokolenie nr=  142 najlepszy=  0(dl=17.430323), najgorszy= 26(dl=22.179318), œrednia_dl=19.516379
+Pokolenie nr=  143 najlepszy=  0(dl=17.430323), najgorszy= 41(dl=21.286167), œrednia_dl=19.618894
+Pokolenie nr=  144 najlepszy=  0(dl=17.430323), najgorszy= 83(dl=23.576523), œrednia_dl=19.434860
+Pokolenie nr=  145 najlepszy=  0(dl=17.430323), najgorszy=127(dl=22.531058), œrednia_dl=19.450378
+Pokolenie nr=  146 najlepszy=  0(dl=17.430323), najgorszy= 66(dl=21.256139), œrednia_dl=19.382988
+Pokolenie nr=  147 najlepszy=  0(dl=17.430323), najgorszy= 89(dl=21.286167), œrednia_dl=19.552176
+Pokolenie nr=  148 najlepszy=  0(dl=17.430323), najgorszy=132(dl=22.105158), œrednia_dl=19.573593
+Pokolenie nr=  149 najlepszy=  0(dl=17.430323), najgorszy=144(dl=21.256139), œrednia_dl=19.430260
+Pokolenie nr=  150 najlepszy=  0(dl=17.430323), najgorszy=110(dl=21.213977), œrednia_dl=19.485055
+Pokolenie nr=  151 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=23.525594), œrednia_dl=19.716243
+Pokolenie nr=  152 najlepszy=  0(dl=17.430323), najgorszy=104(dl=23.324623), œrednia_dl=19.480181
+Pokolenie nr=  153 najlepszy=  0(dl=17.430323), najgorszy= 57(dl=22.121947), œrednia_dl=19.674844
+Pokolenie nr=  154 najlepszy=  0(dl=17.430323), najgorszy= 58(dl=23.525594), œrednia_dl=19.569809
+Pokolenie nr=  155 najlepszy=  0(dl=17.430323), najgorszy= 84(dl=23.324623), œrednia_dl=19.618214
+Pokolenie nr=  156 najlepszy=  0(dl=17.430323), najgorszy= 21(dl=22.853802), œrednia_dl=19.584352
+Pokolenie nr=  157 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=21.772750), œrednia_dl=19.541290
+Pokolenie nr=  158 najlepszy=  0(dl=17.430323), najgorszy=108(dl=23.724544), œrednia_dl=19.466722
+Pokolenie nr=  159 najlepszy=  0(dl=17.430323), najgorszy=141(dl=22.105158), œrednia_dl=19.542220
+Pokolenie nr=  160 najlepszy=  0(dl=17.430323), najgorszy= 37(dl=23.576523), œrednia_dl=19.682439
+Pokolenie nr=  161 najlepszy=  0(dl=17.430323), najgorszy= 47(dl=23.324623), œrednia_dl=19.502567
+Pokolenie nr=  162 najlepszy=  0(dl=17.430323), najgorszy= 88(dl=21.213977), œrednia_dl=19.638747
+Pokolenie nr=  163 najlepszy=  0(dl=17.430323), najgorszy= 13(dl=21.213977), œrednia_dl=19.629123
+Pokolenie nr=  164 najlepszy=  0(dl=17.430323), najgorszy= 74(dl=22.179318), œrednia_dl=19.536304
+Pokolenie nr=  165 najlepszy=  0(dl=17.430323), najgorszy= 43(dl=23.324623), œrednia_dl=19.739335
+Pokolenie nr=  166 najlepszy=  0(dl=17.430323), najgorszy=128(dl=22.364221), œrednia_dl=19.598480
+Pokolenie nr=  167 najlepszy=  0(dl=17.430323), najgorszy=108(dl=20.857870), œrednia_dl=19.472956
+Pokolenie nr=  168 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=21.213977), œrednia_dl=19.617501
+Pokolenie nr=  169 najlepszy=  0(dl=17.430323), najgorszy=  5(dl=23.576523), œrednia_dl=19.695867
+Pokolenie nr=  170 najlepszy=  0(dl=17.430323), najgorszy=148(dl=23.576523), œrednia_dl=19.608227
+Pokolenie nr=  171 najlepszy=  0(dl=17.430323), najgorszy= 70(dl=22.179318), œrednia_dl=19.483807
+Pokolenie nr=  172 najlepszy=  0(dl=17.430323), najgorszy=140(dl=23.945297), œrednia_dl=19.677255
+Pokolenie nr=  173 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=22.306129), œrednia_dl=19.580923
+Pokolenie nr=  174 najlepszy=  0(dl=17.430323), najgorszy= 36(dl=23.578272), œrednia_dl=19.534791
+Pokolenie nr=  175 najlepszy=  0(dl=17.430323), najgorszy=135(dl=21.181942), œrednia_dl=19.642407
+Pokolenie nr=  176 najlepszy=  0(dl=17.430323), najgorszy= 60(dl=22.179318), œrednia_dl=19.692140
+Pokolenie nr=  177 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=21.625322), œrednia_dl=19.643657
+Pokolenie nr=  178 najlepszy=  0(dl=17.430323), najgorszy= 71(dl=21.256139), œrednia_dl=19.650404
+Pokolenie nr=  179 najlepszy=  0(dl=17.430323), najgorszy= 24(dl=22.179318), œrednia_dl=19.728210
+Pokolenie nr=  180 najlepszy=  0(dl=17.430323), najgorszy=118(dl=21.462832), œrednia_dl=19.634671
+Pokolenie nr=  181 najlepszy=  0(dl=17.430323), najgorszy= 90(dl=23.745255), œrednia_dl=19.650304
+Pokolenie nr=  182 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=21.213977), œrednia_dl=19.823005
+Pokolenie nr=  183 najlepszy=  0(dl=17.430323), najgorszy= 15(dl=22.179318), œrednia_dl=19.756901
+Pokolenie nr=  184 najlepszy=  0(dl=17.430323), najgorszy= 54(dl=21.213977), œrednia_dl=19.687382
+Pokolenie nr=  185 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=20.857870), œrednia_dl=19.576578
+Pokolenie nr=  186 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=22.179318), œrednia_dl=19.502590
+Pokolenie nr=  187 najlepszy=  0(dl=17.430323), najgorszy= 27(dl=23.745255), œrednia_dl=19.509532
+Pokolenie nr=  188 najlepszy=  0(dl=17.430323), najgorszy= 82(dl=23.007035), œrednia_dl=19.646552
+Pokolenie nr=  189 najlepszy=  0(dl=17.430323), najgorszy= 59(dl=23.007035), œrednia_dl=19.646953
+Pokolenie nr=  190 najlepszy=  0(dl=17.430323), najgorszy=115(dl=22.105158), œrednia_dl=19.558898
+Pokolenie nr=  191 najlepszy=  0(dl=17.430323), najgorszy= 70(dl=21.435451), œrednia_dl=19.737787
+Pokolenie nr=  192 najlepszy=  0(dl=17.430323), najgorszy=148(dl=22.411087), œrednia_dl=19.562676
+Pokolenie nr=  193 najlepszy=  0(dl=17.430323), najgorszy= 34(dl=22.179318), œrednia_dl=19.535054
+Pokolenie nr=  194 najlepszy=  0(dl=17.430323), najgorszy=  9(dl=22.612059), œrednia_dl=19.495987
+Pokolenie nr=  195 najlepszy=  0(dl=17.430323), najgorszy= 63(dl=23.525594), œrednia_dl=19.643931
+Pokolenie nr=  196 najlepszy=  0(dl=17.430323), najgorszy= 81(dl=21.213977), œrednia_dl=19.572959
+Pokolenie nr=  197 najlepszy=  0(dl=17.430323), najgorszy= 13(dl=23.578272), œrednia_dl=19.576833
+Pokolenie nr=  198 najlepszy=  0(dl=17.430323), najgorszy= 41(dl=22.662636), œrednia_dl=19.482770
+Pokolenie nr=  199 najlepszy=  0(dl=17.430323), najgorszy=113(dl=21.942666), œrednia_dl=19.777658
+Pokolenie nr=  200 najlepszy=  0(dl=17.430323), najgorszy=130(dl=21.256139), œrednia_dl=19.598347
+Pokolenie nr=  201 najlepszy=  0(dl=17.430323), najgorszy= 21(dl=21.213977), œrednia_dl=19.660326
+Pokolenie nr=  202 najlepszy=  0(dl=17.430323), najgorszy=110(dl=23.525594), œrednia_dl=19.736593
+Pokolenie nr=  203 najlepszy=  0(dl=17.430323), najgorszy= 19(dl=23.745255), œrednia_dl=19.787921
+Pokolenie nr=  204 najlepszy=  0(dl=17.430323), najgorszy=105(dl=23.007035), œrednia_dl=19.618732
+Pokolenie nr=  205 najlepszy=  0(dl=17.430323), najgorszy= 84(dl=21.330084), œrednia_dl=19.610527
+Pokolenie nr=  206 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=23.127548), œrednia_dl=19.614544
+Pokolenie nr=  207 najlepszy=  0(dl=17.430323), najgorszy= 29(dl=22.248772), œrednia_dl=19.677030
+Pokolenie nr=  208 najlepszy=  0(dl=17.430323), najgorszy= 91(dl=22.121947), œrednia_dl=19.651243
+Pokolenie nr=  209 najlepszy=  0(dl=17.430323), najgorszy= 81(dl=23.005776), œrednia_dl=19.718330
+Pokolenie nr=  210 najlepszy=  0(dl=17.430323), najgorszy= 90(dl=22.179318), œrednia_dl=19.565431
+Pokolenie nr=  211 najlepszy=  0(dl=17.430323), najgorszy=109(dl=23.945297), œrednia_dl=19.808798
+Pokolenie nr=  212 najlepszy=  0(dl=17.430323), najgorszy=104(dl=22.179318), œrednia_dl=19.635784
+Pokolenie nr=  213 najlepszy=  0(dl=17.430323), najgorszy=101(dl=23.745255), œrednia_dl=19.836728
+Pokolenie nr=  214 najlepszy=  0(dl=17.430323), najgorszy=129(dl=23.044707), œrednia_dl=19.689893
+Pokolenie nr=  215 najlepszy=  0(dl=17.430323), najgorszy= 97(dl=21.256139), œrednia_dl=19.626520
+Pokolenie nr=  216 najlepszy=  0(dl=17.430323), najgorszy=101(dl=21.213977), œrednia_dl=19.667940
+Pokolenie nr=  217 najlepszy=  0(dl=17.430323), najgorszy=137(dl=23.745255), œrednia_dl=19.534984
+Pokolenie nr=  218 najlepszy=  0(dl=17.430323), najgorszy= 38(dl=20.446367), œrednia_dl=19.687032
+Pokolenie nr=  219 najlepszy=  0(dl=17.430323), najgorszy= 56(dl=21.213977), œrednia_dl=19.699917
+Pokolenie nr=  220 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=22.035298), œrednia_dl=19.823976
+Pokolenie nr=  221 najlepszy=  0(dl=17.430323), najgorszy=101(dl=21.191751), œrednia_dl=19.645776
+Pokolenie nr=  222 najlepszy=  0(dl=17.430323), najgorszy= 46(dl=22.179318), œrednia_dl=19.824458
+Pokolenie nr=  223 najlepszy=  0(dl=17.430323), najgorszy= 39(dl=21.575388), œrednia_dl=19.671129
+Pokolenie nr=  224 najlepszy=  0(dl=17.430323), najgorszy= 99(dl=22.411087), œrednia_dl=19.858772
+Pokolenie nr=  225 najlepszy=  0(dl=17.430323), najgorszy= 54(dl=21.213977), œrednia_dl=19.819087
+Pokolenie nr=  226 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=22.179318), œrednia_dl=19.525234
+Pokolenie nr=  227 najlepszy=  0(dl=17.430323), najgorszy=106(dl=23.745255), œrednia_dl=19.899309
+Pokolenie nr=  228 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=22.717521), œrednia_dl=19.829994
+Pokolenie nr=  229 najlepszy=  0(dl=17.430323), najgorszy=136(dl=21.470995), œrednia_dl=19.849703
+Pokolenie nr=  230 najlepszy=  0(dl=17.430323), najgorszy=141(dl=23.578272), œrednia_dl=19.979601
+Pokolenie nr=  231 najlepszy=  0(dl=17.430323), najgorszy=103(dl=22.257470), œrednia_dl=19.631401
+Pokolenie nr=  232 najlepszy=  0(dl=17.430323), najgorszy= 33(dl=22.411087), œrednia_dl=19.808759
+Pokolenie nr=  233 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=20.857870), œrednia_dl=19.807558
+Pokolenie nr=  234 najlepszy=  0(dl=17.430323), najgorszy=130(dl=21.513617), œrednia_dl=19.603848
+Pokolenie nr=  235 najlepszy=  0(dl=17.430323), najgorszy= 20(dl=23.007035), œrednia_dl=19.933072
+Pokolenie nr=  236 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=22.003684), œrednia_dl=19.708584
+Pokolenie nr=  237 najlepszy=  0(dl=17.430323), najgorszy=110(dl=21.213977), œrednia_dl=19.673636
+Pokolenie nr=  238 najlepszy=  0(dl=17.430323), najgorszy= 38(dl=21.575388), œrednia_dl=19.739391
+Pokolenie nr=  239 najlepszy=  0(dl=17.430323), najgorszy= 38(dl=22.612059), œrednia_dl=19.831821
+Pokolenie nr=  240 najlepszy=  0(dl=17.430323), najgorszy=147(dl=23.525594), œrednia_dl=19.699828
+Pokolenie nr=  241 najlepszy=  0(dl=17.430323), najgorszy= 37(dl=23.007035), œrednia_dl=19.780745
+Pokolenie nr=  242 najlepszy=  0(dl=17.430323), najgorszy=128(dl=22.548836), œrednia_dl=19.732402
+Pokolenie nr=  243 najlepszy=  0(dl=17.430323), najgorszy= 64(dl=21.213977), œrednia_dl=19.861346
+Pokolenie nr=  244 najlepszy=  0(dl=17.430323), najgorszy=116(dl=22.853802), œrednia_dl=19.798709
+Pokolenie nr=  245 najlepszy=  0(dl=17.430323), najgorszy=135(dl=23.947174), œrednia_dl=19.733494
+Pokolenie nr=  246 najlepszy=  0(dl=17.430323), najgorszy= 66(dl=21.326852), œrednia_dl=19.859984
+Pokolenie nr=  247 najlepszy=  0(dl=17.430323), najgorszy= 43(dl=22.411087), œrednia_dl=19.770900
+Pokolenie nr=  248 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=21.213977), œrednia_dl=19.543945
+Pokolenie nr=  249 najlepszy=  0(dl=17.430323), najgorszy=143(dl=23.324623), œrednia_dl=19.719532
+Pokolenie nr=  250 najlepszy=  0(dl=17.430323), najgorszy=129(dl=23.134014), œrednia_dl=19.763458
+Pokolenie nr=  251 najlepszy=  0(dl=17.430323), najgorszy=130(dl=22.835950), œrednia_dl=19.650366
+Pokolenie nr=  252 najlepszy=  0(dl=17.430323), najgorszy=143(dl=22.612059), œrednia_dl=19.695546
+Pokolenie nr=  253 najlepszy=  0(dl=17.430323), najgorszy=101(dl=22.612059), œrednia_dl=19.988821
+Pokolenie nr=  254 najlepszy=  0(dl=17.430323), najgorszy=146(dl=21.256139), œrednia_dl=19.689428
+Pokolenie nr=  255 najlepszy=  0(dl=17.430323), najgorszy= 38(dl=21.256139), œrednia_dl=19.776753
+Pokolenie nr=  256 najlepszy=  0(dl=17.430323), najgorszy=114(dl=23.836205), œrednia_dl=19.889443
+Pokolenie nr=  257 najlepszy=  0(dl=17.430323), najgorszy= 70(dl=20.152739), œrednia_dl=19.800378
+Pokolenie nr=  258 najlepszy=  0(dl=17.430323), najgorszy= 99(dl=22.248772), œrednia_dl=19.797581
+Pokolenie nr=  259 najlepszy=  0(dl=17.430323), najgorszy=118(dl=20.857870), œrednia_dl=19.723327
+Pokolenie nr=  260 najlepszy=  0(dl=17.430323), najgorszy= 24(dl=22.835950), œrednia_dl=19.862875
+Pokolenie nr=  261 najlepszy=  0(dl=17.430323), najgorszy=134(dl=22.097967), œrednia_dl=19.723536
+Pokolenie nr=  262 najlepszy=  0(dl=17.430323), najgorszy=114(dl=21.256139), œrednia_dl=19.698026
+Pokolenie nr=  263 najlepszy=  0(dl=17.430323), najgorszy= 15(dl=21.575388), œrednia_dl=19.732188
+Pokolenie nr=  264 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=20.857870), œrednia_dl=19.725184
+Pokolenie nr=  265 najlepszy=  0(dl=17.430323), najgorszy= 19(dl=21.256139), œrednia_dl=19.825546
+Pokolenie nr=  266 najlepszy=  0(dl=17.430323), najgorszy=111(dl=20.446367), œrednia_dl=19.651196
+Pokolenie nr=  267 najlepszy=  0(dl=17.430323), najgorszy= 90(dl=21.213977), œrednia_dl=19.795132
+Pokolenie nr=  268 najlepszy=  0(dl=17.430323), najgorszy= 53(dl=21.256139), œrednia_dl=19.823136
+Pokolenie nr=  269 najlepszy=  0(dl=17.430323), najgorszy= 33(dl=23.377301), œrednia_dl=19.940610
+Pokolenie nr=  270 najlepszy=  0(dl=17.430323), najgorszy=121(dl=22.179318), œrednia_dl=19.784015
+Pokolenie nr=  271 najlepszy=  0(dl=17.430323), najgorszy=101(dl=23.213010), œrednia_dl=19.875526
+Pokolenie nr=  272 najlepszy=  0(dl=17.430323), najgorszy=131(dl=23.213010), œrednia_dl=19.780682
+Pokolenie nr=  273 najlepszy=  0(dl=17.430323), najgorszy= 56(dl=23.377301), œrednia_dl=19.866094
+Pokolenie nr=  274 najlepszy=  0(dl=17.430323), najgorszy= 30(dl=21.256139), œrednia_dl=19.734575
+Pokolenie nr=  275 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=23.578272), œrednia_dl=19.853277
+Pokolenie nr=  276 najlepszy=  0(dl=17.430323), najgorszy=131(dl=22.892295), œrednia_dl=19.698662
+Pokolenie nr=  277 najlepszy=  0(dl=17.430323), najgorszy= 36(dl=21.213977), œrednia_dl=19.777589
+Pokolenie nr=  278 najlepszy=  0(dl=17.430323), najgorszy= 31(dl=22.234486), œrednia_dl=19.684139
+Pokolenie nr=  279 najlepszy=  0(dl=17.430323), najgorszy=  1(dl=21.213977), œrednia_dl=19.716970
+Pokolenie nr=  280 najlepszy=  0(dl=17.430323), najgorszy= 86(dl=22.835950), œrednia_dl=19.771310
+Pokolenie nr=  281 najlepszy=  0(dl=17.430323), najgorszy=141(dl=23.213010), œrednia_dl=19.896491
+Pokolenie nr=  282 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=23.525594), œrednia_dl=19.815501
+Pokolenie nr=  283 najlepszy=  0(dl=17.430323), najgorszy= 47(dl=23.213010), œrednia_dl=19.716236
+Pokolenie nr=  284 najlepszy=  0(dl=17.430323), najgorszy= 65(dl=22.612059), œrednia_dl=19.927964
+Pokolenie nr=  285 najlepszy=  0(dl=17.430323), najgorszy= 97(dl=21.256139), œrednia_dl=19.924631
+Pokolenie nr=  286 najlepszy=  0(dl=17.430323), najgorszy= 53(dl=23.525594), œrednia_dl=19.740421
+Pokolenie nr=  287 najlepszy=  0(dl=17.430323), najgorszy= 24(dl=21.213977), œrednia_dl=19.856507
+Pokolenie nr=  288 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=22.612059), œrednia_dl=19.818493
+Pokolenie nr=  289 najlepszy=  0(dl=17.430323), najgorszy=108(dl=22.179318), œrednia_dl=19.857783
+Pokolenie nr=  290 najlepszy=  0(dl=17.430323), najgorszy= 27(dl=23.387663), œrednia_dl=19.737899
+Pokolenie nr=  291 najlepszy=  0(dl=17.430323), najgorszy=145(dl=23.525594), œrednia_dl=19.960832
+Pokolenie nr=  292 najlepszy=  0(dl=17.430323), najgorszy= 53(dl=23.213010), œrednia_dl=19.859907
+Pokolenie nr=  293 najlepszy=  0(dl=17.430323), najgorszy=106(dl=23.213010), œrednia_dl=19.876885
+Pokolenie nr=  294 najlepszy=  0(dl=17.430323), najgorszy= 59(dl=23.387663), œrednia_dl=19.803494
+Pokolenie nr=  295 najlepszy=  0(dl=17.430323), najgorszy= 92(dl=21.213977), œrednia_dl=19.853270
+Pokolenie nr=  296 najlepszy=  0(dl=17.430323), najgorszy= 51(dl=22.179318), œrednia_dl=19.720419
+Pokolenie nr=  297 najlepszy=  0(dl=17.430323), najgorszy=125(dl=20.994678), œrednia_dl=19.944913
+Pokolenie nr=  298 najlepszy=  0(dl=17.430323), najgorszy= 42(dl=23.176357), œrednia_dl=19.989570
+Pokolenie nr=  299 najlepszy=  0(dl=17.430323), najgorszy=144(dl=20.531375), œrednia_dl=19.847552
+Pokolenie nr=  300 najlepszy=  0(dl=17.430323), najgorszy= 67(dl=23.213010), œrednia_dl=19.937044
+Pokolenie nr=  301 najlepszy=  0(dl=17.430323), najgorszy=117(dl=24.143084), œrednia_dl=19.848160
+Pokolenie nr=  302 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=23.127657), œrednia_dl=19.707882
+Pokolenie nr=  303 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=23.525594), œrednia_dl=19.837008
+Pokolenie nr=  304 najlepszy=  0(dl=17.430323), najgorszy= 79(dl=23.134014), œrednia_dl=19.787320
+Pokolenie nr=  305 najlepszy=  0(dl=17.430323), najgorszy=104(dl=22.179318), œrednia_dl=19.836722
+Pokolenie nr=  306 najlepszy=  0(dl=17.430323), najgorszy= 91(dl=23.213010), œrednia_dl=19.605727
+Pokolenie nr=  307 najlepszy=  0(dl=17.430323), najgorszy=141(dl=24.262419), œrednia_dl=19.904657
+Pokolenie nr=  308 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=23.213010), œrednia_dl=19.739615
+Pokolenie nr=  309 najlepszy=  0(dl=17.430323), najgorszy= 71(dl=22.274872), œrednia_dl=19.895446
+Pokolenie nr=  310 najlepszy=  0(dl=17.430323), najgorszy=132(dl=20.894098), œrednia_dl=19.690675
+Pokolenie nr=  311 najlepszy=  0(dl=17.430323), najgorszy=109(dl=21.837459), œrednia_dl=19.888838
+Pokolenie nr=  312 najlepszy=  0(dl=17.430323), najgorszy=115(dl=23.324623), œrednia_dl=20.046163
+Pokolenie nr=  313 najlepszy=  0(dl=17.430323), najgorszy= 62(dl=22.104886), œrednia_dl=19.805806
+Pokolenie nr=  314 najlepszy=  0(dl=17.430323), najgorszy= 48(dl=21.470995), œrednia_dl=19.810505
+Pokolenie nr=  315 najlepszy=  0(dl=17.430323), najgorszy=103(dl=22.506934), œrednia_dl=19.971052
+Pokolenie nr=  316 najlepszy=  0(dl=17.430323), najgorszy=145(dl=23.382885), œrednia_dl=19.668795
+Pokolenie nr=  317 najlepszy=  0(dl=17.430323), najgorszy=110(dl=21.213977), œrednia_dl=19.824917
+Pokolenie nr=  318 najlepszy=  0(dl=17.430323), najgorszy=105(dl=21.256139), œrednia_dl=19.835595
+Pokolenie nr=  319 najlepszy=  0(dl=17.430323), najgorszy= 57(dl=23.208743), œrednia_dl=19.793942
+Pokolenie nr=  320 najlepszy=  0(dl=17.430323), najgorszy= 48(dl=23.525594), œrednia_dl=19.666316
+Pokolenie nr=  321 najlepszy=  0(dl=17.430323), najgorszy= 67(dl=23.588135), œrednia_dl=19.851162
+Pokolenie nr=  322 najlepszy=  0(dl=17.430323), najgorszy= 31(dl=23.525594), œrednia_dl=19.777367
+Pokolenie nr=  323 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=20.857870), œrednia_dl=19.881787
+Pokolenie nr=  324 najlepszy=  0(dl=17.430323), najgorszy=138(dl=22.296926), œrednia_dl=19.910081
+Pokolenie nr=  325 najlepszy=  0(dl=17.430323), najgorszy= 40(dl=23.213010), œrednia_dl=19.799435
+Pokolenie nr=  326 najlepszy=  0(dl=17.430323), najgorszy= 33(dl=23.324623), œrednia_dl=19.762299
+Pokolenie nr=  327 najlepszy=  0(dl=17.430323), najgorszy=108(dl=21.213977), œrednia_dl=19.853623
+Pokolenie nr=  328 najlepszy=  0(dl=17.430323), najgorszy= 54(dl=23.213010), œrednia_dl=19.686492
+Pokolenie nr=  329 najlepszy=  0(dl=17.430323), najgorszy=115(dl=23.213010), œrednia_dl=20.014892
+Pokolenie nr=  330 najlepszy=  0(dl=17.430323), najgorszy= 47(dl=21.981480), œrednia_dl=19.767299
+Pokolenie nr=  331 najlepszy=  0(dl=17.430323), najgorszy=123(dl=23.186692), œrednia_dl=19.744661
+Pokolenie nr=  332 najlepszy=  0(dl=17.430323), najgorszy= 46(dl=23.525594), œrednia_dl=19.682705
+Pokolenie nr=  333 najlepszy=  0(dl=17.430323), najgorszy= 88(dl=20.639995), œrednia_dl=19.788295
+Pokolenie nr=  334 najlepszy=  0(dl=17.430323), najgorszy= 47(dl=21.402065), œrednia_dl=19.748625
+Pokolenie nr=  335 najlepszy=  0(dl=17.430323), najgorszy= 27(dl=23.213010), œrednia_dl=19.746428
+Pokolenie nr=  336 najlepszy=  0(dl=17.430323), najgorszy=114(dl=21.575388), œrednia_dl=19.749925
+Pokolenie nr=  337 najlepszy=  0(dl=17.430323), najgorszy=115(dl=21.575388), œrednia_dl=19.689675
+Pokolenie nr=  338 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=22.625562), œrednia_dl=19.701872
+Pokolenie nr=  339 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=21.072803), œrednia_dl=19.911389
+Pokolenie nr=  340 najlepszy=  0(dl=17.430323), najgorszy= 20(dl=23.617018), œrednia_dl=19.782402
+Pokolenie nr=  341 najlepszy=  0(dl=17.430323), najgorszy=108(dl=22.182820), œrednia_dl=19.714980
+Pokolenie nr=  342 najlepszy=  0(dl=17.430323), najgorszy=147(dl=23.013857), œrednia_dl=19.773835
+Pokolenie nr=  343 najlepszy=  0(dl=17.430323), najgorszy=120(dl=20.857870), œrednia_dl=19.767498
+Pokolenie nr=  344 najlepszy=  0(dl=17.430323), najgorszy= 22(dl=23.324623), œrednia_dl=19.909533
+Pokolenie nr=  345 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=23.334985), œrednia_dl=19.824351
+Pokolenie nr=  346 najlepszy=  0(dl=17.430323), najgorszy=  6(dl=23.525594), œrednia_dl=19.876973
+Pokolenie nr=  347 najlepszy=  0(dl=17.430323), najgorszy= 54(dl=23.377301), œrednia_dl=19.782837
+Pokolenie nr=  348 najlepszy=  0(dl=17.430323), najgorszy=139(dl=22.296926), œrednia_dl=19.932854
+Pokolenie nr=  349 najlepszy=  0(dl=17.430323), najgorszy=110(dl=22.664737), œrednia_dl=19.825008
+Pokolenie nr=  350 najlepszy=  0(dl=17.430323), najgorszy= 38(dl=22.274872), œrednia_dl=19.607948
+Pokolenie nr=  351 najlepszy=  0(dl=17.430323), najgorszy=149(dl=20.857870), œrednia_dl=19.845931
+Pokolenie nr=  352 najlepszy=  0(dl=17.430323), najgorszy= 96(dl=22.612059), œrednia_dl=19.695756
+Pokolenie nr=  353 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=20.446367), œrednia_dl=19.689495
+Pokolenie nr=  354 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=21.436434), œrednia_dl=19.766805
+Pokolenie nr=  355 najlepszy=  0(dl=17.430323), najgorszy= 96(dl=21.213977), œrednia_dl=19.700919
+Pokolenie nr=  356 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=20.874114), œrednia_dl=19.658170
+Pokolenie nr=  357 najlepszy=  0(dl=17.430323), najgorszy= 92(dl=23.525594), œrednia_dl=19.787856
+Pokolenie nr=  358 najlepszy=  0(dl=17.430323), najgorszy= 38(dl=21.191751), œrednia_dl=19.798138
+Pokolenie nr=  359 najlepszy=  0(dl=17.430323), najgorszy= 86(dl=23.578272), œrednia_dl=19.727615
+Pokolenie nr=  360 najlepszy=  0(dl=17.430323), najgorszy=104(dl=20.894098), œrednia_dl=19.924393
+Pokolenie nr=  361 najlepszy=  0(dl=17.430323), najgorszy=105(dl=23.210462), œrednia_dl=19.789120
+Pokolenie nr=  362 najlepszy=  0(dl=17.430323), najgorszy=  6(dl=21.213977), œrednia_dl=19.845423
+Pokolenie nr=  363 najlepszy=  0(dl=17.430323), najgorszy= 65(dl=23.947174), œrednia_dl=19.806621
+Pokolenie nr=  364 najlepszy=  0(dl=17.430323), najgorszy=139(dl=22.324406), œrednia_dl=19.799366
+Pokolenie nr=  365 najlepszy=  0(dl=17.430323), najgorszy=148(dl=23.377301), œrednia_dl=19.709020
+Pokolenie nr=  366 najlepszy=  0(dl=17.430323), najgorszy=129(dl=24.143084), œrednia_dl=19.938428
+Pokolenie nr=  367 najlepszy=  0(dl=17.430323), najgorszy=124(dl=23.578272), œrednia_dl=19.939678
+Pokolenie nr=  368 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=23.213010), œrednia_dl=19.873344
+Pokolenie nr=  369 najlepszy=  0(dl=17.430323), najgorszy=143(dl=21.436984), œrednia_dl=19.772866
+Pokolenie nr=  370 najlepszy=  0(dl=17.430323), najgorszy= 36(dl=21.778662), œrednia_dl=19.828390
+Pokolenie nr=  371 najlepszy=  0(dl=17.430323), najgorszy= 95(dl=20.857870), œrednia_dl=19.899523
+Pokolenie nr=  372 najlepszy=  0(dl=17.430323), najgorszy= 22(dl=21.256139), œrednia_dl=19.761721
+Pokolenie nr=  373 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=22.741563), œrednia_dl=19.923002
+Pokolenie nr=  374 najlepszy=  0(dl=17.430323), najgorszy=130(dl=20.446367), œrednia_dl=19.803991
+Pokolenie nr=  375 najlepszy=  0(dl=17.430323), najgorszy= 81(dl=19.915470), œrednia_dl=19.883914
+Pokolenie nr=  376 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=22.717521), œrednia_dl=19.829647
+Pokolenie nr=  377 najlepszy=  0(dl=17.430323), najgorszy= 90(dl=21.191751), œrednia_dl=19.939655
+Pokolenie nr=  378 najlepszy=  0(dl=17.430323), najgorszy= 39(dl=20.990780), œrednia_dl=19.734494
+Pokolenie nr=  379 najlepszy=  0(dl=17.430323), najgorszy= 51(dl=22.073901), œrednia_dl=19.777057
+Pokolenie nr=  380 najlepszy=  0(dl=17.430323), najgorszy= 75(dl=22.717521), œrednia_dl=19.825922
+Pokolenie nr=  381 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=21.810536), œrednia_dl=19.736870
+Pokolenie nr=  382 najlepszy=  0(dl=17.430323), najgorszy=103(dl=23.213010), œrednia_dl=19.919777
+Pokolenie nr=  383 najlepszy=  0(dl=17.430323), najgorszy= 98(dl=24.143084), œrednia_dl=19.873308
+Pokolenie nr=  384 najlepszy=  0(dl=17.430323), najgorszy=144(dl=21.210624), œrednia_dl=19.695818
+Pokolenie nr=  385 najlepszy=  0(dl=17.430323), najgorszy= 43(dl=23.213010), œrednia_dl=19.918797
+Pokolenie nr=  386 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=19.954515), œrednia_dl=19.718195
+Pokolenie nr=  387 najlepszy=  0(dl=17.430323), najgorszy= 84(dl=23.525594), œrednia_dl=19.895632
+Pokolenie nr=  388 najlepszy=  0(dl=17.430323), najgorszy= 58(dl=23.525594), œrednia_dl=19.810593
+Pokolenie nr=  389 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=23.377301), œrednia_dl=19.827732
+Pokolenie nr=  390 najlepszy=  0(dl=17.430323), najgorszy=  3(dl=21.717411), œrednia_dl=19.941972
+Pokolenie nr=  391 najlepszy=  0(dl=17.430323), najgorszy= 12(dl=22.548836), œrednia_dl=19.810622
+Pokolenie nr=  392 najlepszy=  0(dl=17.430323), najgorszy=  9(dl=23.213010), œrednia_dl=19.720130
+Pokolenie nr=  393 najlepszy=  0(dl=17.430323), najgorszy= 50(dl=22.179318), œrednia_dl=19.825504
+Pokolenie nr=  394 najlepszy=  0(dl=17.430323), najgorszy=147(dl=23.334985), œrednia_dl=19.983750
+Pokolenie nr=  395 najlepszy=  0(dl=17.430323), najgorszy= 45(dl=20.425752), œrednia_dl=19.796647
+Pokolenie nr=  396 najlepszy=  0(dl=17.430323), najgorszy= 57(dl=23.393267), œrednia_dl=19.776272
+Pokolenie nr=  397 najlepszy=  0(dl=17.430323), najgorszy= 39(dl=24.787110), œrednia_dl=19.694517
+Pokolenie nr=  398 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=23.247885), œrednia_dl=19.807248
+Pokolenie nr=  399 najlepszy=  0(dl=17.430323), najgorszy=147(dl=21.243277), œrednia_dl=19.811106
+Pokolenie nr=  400 najlepszy=  0(dl=17.430323), najgorszy=116(dl=21.721048), œrednia_dl=19.887439
+Pokolenie nr=  401 najlepszy=  0(dl=17.430323), najgorszy= 95(dl=23.213010), œrednia_dl=19.884481
+Pokolenie nr=  402 najlepszy=  0(dl=17.430323), najgorszy= 18(dl=21.778662), œrednia_dl=19.647132
+Pokolenie nr=  403 najlepszy=  0(dl=17.430323), najgorszy=107(dl=23.213010), œrednia_dl=19.767143
+Pokolenie nr=  404 najlepszy=  0(dl=17.430323), najgorszy= 96(dl=22.049418), œrednia_dl=19.708125
+Pokolenie nr=  405 najlepszy=  0(dl=17.430323), najgorszy= 92(dl=22.612059), œrednia_dl=19.665843
+Pokolenie nr=  406 najlepszy=  0(dl=17.430323), najgorszy= 36(dl=19.915470), œrednia_dl=19.825182
+Pokolenie nr=  407 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=23.213010), œrednia_dl=19.593791
+Pokolenie nr=  408 najlepszy=  0(dl=17.430323), najgorszy= 82(dl=20.538270), œrednia_dl=20.000103
+Pokolenie nr=  409 najlepszy=  0(dl=17.430323), najgorszy= 46(dl=20.639995), œrednia_dl=19.667381
+Pokolenie nr=  410 najlepszy=  0(dl=17.430323), najgorszy=  9(dl=21.213977), œrednia_dl=19.706902
+Pokolenie nr=  411 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=23.293544), œrednia_dl=20.037498
+Pokolenie nr=  412 najlepszy=  0(dl=17.430323), najgorszy= 59(dl=20.857870), œrednia_dl=19.699493
+Pokolenie nr=  413 najlepszy=  0(dl=17.430323), najgorszy=104(dl=23.393267), œrednia_dl=19.874963
+Pokolenie nr=  414 najlepszy=  0(dl=17.430323), najgorszy= 10(dl=23.706474), œrednia_dl=19.890423
+Pokolenie nr=  415 najlepszy=  0(dl=17.430323), najgorszy=101(dl=21.688542), œrednia_dl=19.942568
+Pokolenie nr=  416 najlepszy=  0(dl=17.430323), najgorszy=145(dl=21.692725), œrednia_dl=19.745817
+Pokolenie nr=  417 najlepszy=  0(dl=17.430323), najgorszy= 75(dl=22.049418), œrednia_dl=19.887332
+Pokolenie nr=  418 najlepszy=  0(dl=17.430323), najgorszy= 46(dl=21.191751), œrednia_dl=19.772703
+Pokolenie nr=  419 najlepszy=  0(dl=17.430323), najgorszy= 91(dl=20.994678), œrednia_dl=19.719616
+Pokolenie nr=  420 najlepszy=  0(dl=17.430323), najgorszy= 25(dl=23.213010), œrednia_dl=19.786958
+Pokolenie nr=  421 najlepszy=  0(dl=17.430323), najgorszy= 71(dl=20.639995), œrednia_dl=19.785385
+Pokolenie nr=  422 najlepszy=  0(dl=17.430323), najgorszy=  4(dl=20.538270), œrednia_dl=19.737411
+Pokolenie nr=  423 najlepszy=  0(dl=17.430323), najgorszy= 56(dl=21.692725), œrednia_dl=19.917247
+Pokolenie nr=  424 najlepszy=  0(dl=17.430323), najgorszy=126(dl=23.947174), œrednia_dl=19.843191
+Pokolenie nr=  425 najlepszy=  0(dl=17.430323), najgorszy= 60(dl=23.393267), œrednia_dl=19.941259
+Pokolenie nr=  426 najlepszy=  0(dl=17.430323), najgorszy=113(dl=20.693126), œrednia_dl=19.815388
+Pokolenie nr=  427 najlepszy=  0(dl=17.430323), najgorszy=109(dl=21.243277), œrednia_dl=19.800549
+Pokolenie nr=  428 najlepszy=  0(dl=17.430323), najgorszy=148(dl=21.655896), œrednia_dl=19.989927
+Pokolenie nr=  429 najlepszy=  0(dl=17.430323), najgorszy= 51(dl=22.748086), œrednia_dl=19.808289
+Pokolenie nr=  430 najlepszy=  0(dl=17.430323), najgorszy= 10(dl=23.393267), œrednia_dl=19.891592
+Pokolenie nr=  431 najlepszy=  0(dl=17.430323), najgorszy=131(dl=23.681359), œrednia_dl=19.832389
+Pokolenie nr=  432 najlepszy=  0(dl=17.430323), najgorszy=117(dl=23.709441), œrednia_dl=19.668408
+Pokolenie nr=  433 najlepszy=  0(dl=17.430323), najgorszy= 26(dl=23.393267), œrednia_dl=19.784295
+Pokolenie nr=  434 najlepszy=  0(dl=17.430323), najgorszy= 23(dl=20.446367), œrednia_dl=19.804145
+Pokolenie nr=  435 najlepszy=  0(dl=17.430323), najgorszy= 54(dl=23.393267), œrednia_dl=19.792724
+Pokolenie nr=  436 najlepszy=  0(dl=17.430323), najgorszy= 21(dl=23.393267), œrednia_dl=19.809496
+Pokolenie nr=  437 najlepszy=  0(dl=17.430323), najgorszy= 68(dl=20.356139), œrednia_dl=19.828688
+Pokolenie nr=  438 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=21.213977), œrednia_dl=19.859376
+Pokolenie nr=  439 najlepszy=  0(dl=17.430323), najgorszy=105(dl=23.525594), œrednia_dl=19.868188
+Pokolenie nr=  440 najlepszy=  0(dl=17.430323), najgorszy= 30(dl=21.436984), œrednia_dl=19.941869
+Pokolenie nr=  441 najlepszy=  0(dl=17.430323), najgorszy= 33(dl=20.870598), œrednia_dl=19.815994
+Pokolenie nr=  442 najlepszy=  0(dl=17.430323), najgorszy=  4(dl=23.393267), œrednia_dl=20.015357
+Pokolenie nr=  443 najlepszy=  0(dl=17.430323), najgorszy= 13(dl=20.446367), œrednia_dl=19.951208
+Pokolenie nr=  444 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=21.436984), œrednia_dl=19.639865
+Pokolenie nr=  445 najlepszy=  0(dl=17.430323), najgorszy=142(dl=23.393267), œrednia_dl=19.872728
+Pokolenie nr=  446 najlepszy=  0(dl=17.430323), najgorszy=130(dl=23.660386), œrednia_dl=19.833400
+Pokolenie nr=  447 najlepszy=  0(dl=17.430323), najgorszy=137(dl=20.446367), œrednia_dl=19.730908
+Pokolenie nr=  448 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=23.393267), œrednia_dl=19.914168
+Pokolenie nr=  449 najlepszy=  0(dl=17.430323), najgorszy=102(dl=23.393267), œrednia_dl=19.935163
+Pokolenie nr=  450 najlepszy=  0(dl=17.430323), najgorszy= 40(dl=22.049418), œrednia_dl=19.834860
+Pokolenie nr=  451 najlepszy=  0(dl=17.430323), najgorszy= 67(dl=23.393267), œrednia_dl=19.823485
+Pokolenie nr=  452 najlepszy=  0(dl=17.430323), najgorszy=115(dl=19.499625), œrednia_dl=19.862113
+Pokolenie nr=  453 najlepszy=  0(dl=17.430323), najgorszy= 41(dl=20.857870), œrednia_dl=19.786610
+Pokolenie nr=  454 najlepszy=  0(dl=17.430323), najgorszy=134(dl=22.447238), œrednia_dl=19.897839
+Pokolenie nr=  455 najlepszy=  0(dl=17.430323), najgorszy=117(dl=23.393267), œrednia_dl=19.805024
+Pokolenie nr=  456 najlepszy=  0(dl=17.430323), najgorszy= 12(dl=23.393267), œrednia_dl=19.915140
+Pokolenie nr=  457 najlepszy=  0(dl=17.430323), najgorszy=107(dl=23.391717), œrednia_dl=19.969321
+Pokolenie nr=  458 najlepszy=  0(dl=17.430323), najgorszy= 19(dl=21.381916), œrednia_dl=19.774935
+Pokolenie nr=  459 najlepszy=  0(dl=17.430323), najgorszy= 34(dl=19.915470), œrednia_dl=19.899696
+Pokolenie nr=  460 najlepszy=  0(dl=17.430323), najgorszy= 71(dl=21.213977), œrednia_dl=19.784245
+Pokolenie nr=  461 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=21.213977), œrednia_dl=19.907142
+Pokolenie nr=  462 najlepszy=  0(dl=17.430323), najgorszy= 20(dl=20.538270), œrednia_dl=19.838189
+Pokolenie nr=  463 najlepszy=  0(dl=17.430323), najgorszy=116(dl=23.393267), œrednia_dl=19.824154
+Pokolenie nr=  464 najlepszy=  0(dl=17.430323), najgorszy= 89(dl=23.660386), œrednia_dl=19.705737
+Pokolenie nr=  465 najlepszy=  0(dl=17.430323), najgorszy=122(dl=23.393267), œrednia_dl=19.812285
+Pokolenie nr=  466 najlepszy=  0(dl=17.430323), najgorszy=111(dl=23.393267), œrednia_dl=20.023690
+Pokolenie nr=  467 najlepszy=  0(dl=17.430323), najgorszy=125(dl=20.639995), œrednia_dl=19.980478
+Pokolenie nr=  468 najlepszy=  0(dl=17.430323), najgorszy= 67(dl=23.396073), œrednia_dl=19.915306
+Pokolenie nr=  469 najlepszy=  0(dl=17.430323), najgorszy=  9(dl=22.104886), œrednia_dl=19.973293
+Pokolenie nr=  470 najlepszy=  0(dl=17.430323), najgorszy=129(dl=21.827774), œrednia_dl=19.867891
+Pokolenie nr=  471 najlepszy=  0(dl=17.430323), najgorszy= 35(dl=20.538270), œrednia_dl=19.880263
+Pokolenie nr=  472 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=23.393267), œrednia_dl=20.011765
+Pokolenie nr=  473 najlepszy=  0(dl=17.430323), najgorszy= 56(dl=22.655577), œrednia_dl=19.885194
+Pokolenie nr=  474 najlepszy=  0(dl=17.430323), najgorszy=111(dl=23.393267), œrednia_dl=19.746252
+Pokolenie nr=  475 najlepszy=  0(dl=17.430323), najgorszy=  3(dl=23.393267), œrednia_dl=19.826029
+Pokolenie nr=  476 najlepszy=  0(dl=17.430323), najgorszy=123(dl=20.679667), œrednia_dl=19.818351
+Pokolenie nr=  477 najlepszy=  0(dl=17.430323), najgorszy= 99(dl=19.859091), œrednia_dl=19.996963
+Pokolenie nr=  478 najlepszy=  0(dl=17.430323), najgorszy= 62(dl=23.393267), œrednia_dl=20.025933
+Pokolenie nr=  479 najlepszy=  0(dl=17.430323), najgorszy= 10(dl=23.660386), œrednia_dl=19.893960
+Pokolenie nr=  480 najlepszy=  0(dl=17.430323), najgorszy=109(dl=22.049418), œrednia_dl=20.111886
+Pokolenie nr=  481 najlepszy=  0(dl=17.430323), najgorszy=128(dl=21.436984), œrednia_dl=19.939034
+Pokolenie nr=  482 najlepszy=  0(dl=17.430323), najgorszy= 21(dl=23.393267), œrednia_dl=20.020291
+Pokolenie nr=  483 najlepszy=  0(dl=17.430323), najgorszy= 74(dl=20.060062), œrednia_dl=19.709054
+Pokolenie nr=  484 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=19.600338), œrednia_dl=19.876957
+Pokolenie nr=  485 najlepszy=  0(dl=17.430323), najgorszy= 30(dl=20.857870), œrednia_dl=20.048879
+Pokolenie nr=  486 najlepszy=  0(dl=17.430323), najgorszy= 26(dl=20.857870), œrednia_dl=19.883693
+Pokolenie nr=  487 najlepszy=  0(dl=17.430323), najgorszy=  4(dl=20.857870), œrednia_dl=20.027650
+Pokolenie nr=  488 najlepszy=  0(dl=17.430323), najgorszy= 30(dl=24.246518), œrednia_dl=19.961513
+Pokolenie nr=  489 najlepszy=  0(dl=17.430323), najgorszy= 85(dl=23.393267), œrednia_dl=19.926746
+Pokolenie nr=  490 najlepszy=  0(dl=17.430323), najgorszy=  4(dl=20.538270), œrednia_dl=19.959408
+Pokolenie nr=  491 najlepszy=  0(dl=17.430323), najgorszy=120(dl=21.226074), œrednia_dl=19.992823
+Pokolenie nr=  492 najlepszy=  0(dl=17.430323), najgorszy=106(dl=22.717521), œrednia_dl=20.007048
+Pokolenie nr=  493 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=23.393267), œrednia_dl=19.992993
+Pokolenie nr=  494 najlepszy=  0(dl=17.430323), najgorszy= 57(dl=24.246518), œrednia_dl=20.069782
+Pokolenie nr=  495 najlepszy=  0(dl=17.430323), najgorszy= 35(dl=21.250184), œrednia_dl=20.044671
+Pokolenie nr=  496 najlepszy=  0(dl=17.430323), najgorszy=136(dl=21.213977), œrednia_dl=19.909925
+Pokolenie nr=  497 najlepszy=  0(dl=17.430323), najgorszy= 66(dl=21.368105), œrednia_dl=19.818929
+Pokolenie nr=  498 najlepszy=  0(dl=17.430323), najgorszy= 10(dl=20.538270), œrednia_dl=20.003801
+Pokolenie nr=  499 najlepszy=  0(dl=17.430323), najgorszy= 65(dl=23.660386), œrednia_dl=19.926531
+Pokolenie nr=  500 najlepszy=  0(dl=17.430323), najgorszy=136(dl=24.246518), œrednia_dl=20.045534
+Pokolenie nr=  501 najlepszy=  0(dl=17.430323), najgorszy= 48(dl=21.981480), œrednia_dl=19.952185
+Pokolenie nr=  502 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=20.857870), œrednia_dl=19.981293
+Pokolenie nr=  503 najlepszy=  0(dl=17.430323), najgorszy= 91(dl=20.557249), œrednia_dl=20.013521
+Pokolenie nr=  504 najlepszy=  0(dl=17.430323), najgorszy=130(dl=23.393267), œrednia_dl=19.941864
+Pokolenie nr=  505 najlepszy=  0(dl=17.430323), najgorszy= 15(dl=22.459014), œrednia_dl=19.973864
+Pokolenie nr=  506 najlepszy=  0(dl=17.430323), najgorszy= 21(dl=22.104886), œrednia_dl=20.003525
+Pokolenie nr=  507 najlepszy=  0(dl=17.430323), najgorszy=137(dl=23.611766), œrednia_dl=20.039456
+Pokolenie nr=  508 najlepszy=  0(dl=17.430323), najgorszy= 15(dl=23.393267), œrednia_dl=20.105645
+Pokolenie nr=  509 najlepszy=  0(dl=17.430323), najgorszy= 77(dl=20.116047), œrednia_dl=20.008780
+Pokolenie nr=  510 najlepszy=  0(dl=17.430323), najgorszy=107(dl=23.393267), œrednia_dl=19.852914
+Pokolenie nr=  511 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=20.857870), œrednia_dl=20.113512
+Pokolenie nr=  512 najlepszy=  0(dl=17.430323), najgorszy= 21(dl=23.393267), œrednia_dl=20.093936
+Pokolenie nr=  513 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=22.447238), œrednia_dl=20.050653
+Pokolenie nr=  514 najlepszy=  0(dl=17.430323), najgorszy=125(dl=21.575388), œrednia_dl=20.088435
+Pokolenie nr=  515 najlepszy=  0(dl=17.430323), najgorszy= 51(dl=22.049418), œrednia_dl=19.948463
+Pokolenie nr=  516 najlepszy=  0(dl=17.430323), najgorszy= 45(dl=23.393267), œrednia_dl=20.053828
+Pokolenie nr=  517 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=21.688542), œrednia_dl=20.034109
+Pokolenie nr=  518 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=23.611766), œrednia_dl=20.049088
+Pokolenie nr=  519 najlepszy=  0(dl=17.430323), najgorszy= 88(dl=21.379761), œrednia_dl=19.965632
+Pokolenie nr=  520 najlepszy=  0(dl=17.430323), najgorszy= 29(dl=22.717521), œrednia_dl=20.197843
+Pokolenie nr=  521 najlepszy=  0(dl=17.430323), najgorszy= 88(dl=23.393267), œrednia_dl=19.910649
+Pokolenie nr=  522 najlepszy=  0(dl=17.430323), najgorszy= 29(dl=23.393267), œrednia_dl=20.205340
+Pokolenie nr=  523 najlepszy=  0(dl=17.430323), najgorszy=  1(dl=21.813534), œrednia_dl=20.180146
+Pokolenie nr=  524 najlepszy=  0(dl=17.430323), najgorszy= 68(dl=21.213977), œrednia_dl=19.849002
+Pokolenie nr=  525 najlepszy=  0(dl=17.430323), najgorszy=134(dl=23.393267), œrednia_dl=19.970728
+Pokolenie nr=  526 najlepszy=  0(dl=17.430323), najgorszy=140(dl=21.728654), œrednia_dl=19.879921
+Pokolenie nr=  527 najlepszy=  0(dl=17.430323), najgorszy= 77(dl=22.104886), œrednia_dl=20.144827
+Pokolenie nr=  528 najlepszy=  0(dl=17.430323), najgorszy= 72(dl=21.843537), œrednia_dl=20.119944
+Pokolenie nr=  529 najlepszy=  0(dl=17.430323), najgorszy= 81(dl=21.962543), œrednia_dl=19.954540
+Pokolenie nr=  530 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=20.857870), œrednia_dl=20.029588
+Pokolenie nr=  531 najlepszy=  0(dl=17.430323), najgorszy= 30(dl=20.033947), œrednia_dl=19.810275
+Pokolenie nr=  532 najlepszy=  0(dl=17.430323), najgorszy= 49(dl=23.393267), œrednia_dl=19.967714
+Pokolenie nr=  533 najlepszy=  0(dl=17.430323), najgorszy= 43(dl=22.049418), œrednia_dl=20.083337
+Pokolenie nr=  534 najlepszy=  0(dl=17.430323), najgorszy= 85(dl=20.022679), œrednia_dl=20.143784
+Pokolenie nr=  535 najlepszy=  0(dl=17.430323), najgorszy= 30(dl=23.611766), œrednia_dl=20.011188
+Pokolenie nr=  536 najlepszy=  0(dl=17.430323), najgorszy=139(dl=22.500346), œrednia_dl=20.042719
+Pokolenie nr=  537 najlepszy=  0(dl=17.430323), najgorszy= 72(dl=21.213977), œrednia_dl=19.982221
+Pokolenie nr=  538 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=24.544317), œrednia_dl=20.173539
+Pokolenie nr=  539 najlepszy=  0(dl=17.430323), najgorszy= 41(dl=23.611766), œrednia_dl=20.019413
+Pokolenie nr=  540 najlepszy=  0(dl=17.430323), najgorszy= 74(dl=22.573558), œrednia_dl=20.045352
+Pokolenie nr=  541 najlepszy=  0(dl=17.430323), najgorszy=134(dl=23.393267), œrednia_dl=20.011871
+Pokolenie nr=  542 najlepszy=  0(dl=17.430323), najgorszy=  1(dl=22.725340), œrednia_dl=20.098441
+Pokolenie nr=  543 najlepszy=  0(dl=17.430323), najgorszy= 33(dl=22.087358), œrednia_dl=19.961471
+Pokolenie nr=  544 najlepszy=  0(dl=17.430323), najgorszy= 16(dl=21.813534), œrednia_dl=19.955809
+Pokolenie nr=  545 najlepszy=  0(dl=17.430323), najgorszy= 97(dl=19.915470), œrednia_dl=19.916156
+Pokolenie nr=  546 najlepszy=  0(dl=17.430323), najgorszy= 23(dl=23.332982), œrednia_dl=20.198184
+Pokolenie nr=  547 najlepszy=  0(dl=17.430323), najgorszy= 58(dl=21.213977), œrednia_dl=20.003791
+Pokolenie nr=  548 najlepszy=  0(dl=17.430323), najgorszy= 15(dl=20.857870), œrednia_dl=19.995717
+Pokolenie nr=  549 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=23.393267), œrednia_dl=20.171920
+Pokolenie nr=  550 najlepszy=  0(dl=17.430323), najgorszy= 86(dl=21.424678), œrednia_dl=20.041900
+Pokolenie nr=  551 najlepszy=  0(dl=17.430323), najgorszy= 82(dl=22.049418), œrednia_dl=20.181297
+Pokolenie nr=  552 najlepszy=  0(dl=17.430323), najgorszy= 20(dl=21.191751), œrednia_dl=20.029595
+Pokolenie nr=  553 najlepszy=  0(dl=17.430323), najgorszy= 19(dl=23.393267), œrednia_dl=20.008959
+Pokolenie nr=  554 najlepszy=  0(dl=17.430323), najgorszy= 27(dl=19.600338), œrednia_dl=19.965349
+Pokolenie nr=  555 najlepszy=  0(dl=17.430323), najgorszy= 89(dl=20.033947), œrednia_dl=20.152392
+Pokolenie nr=  556 najlepszy=  0(dl=17.430323), najgorszy=  9(dl=20.053634), œrednia_dl=20.200368
+Pokolenie nr=  557 najlepszy=  0(dl=17.430323), najgorszy= 99(dl=22.717521), œrednia_dl=20.088008
+Pokolenie nr=  558 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=23.393267), œrednia_dl=20.137452
+Pokolenie nr=  559 najlepszy=  0(dl=17.430323), najgorszy= 34(dl=23.660386), œrednia_dl=20.198084
+Pokolenie nr=  560 najlepszy=  0(dl=17.430323), najgorszy=102(dl=21.942666), œrednia_dl=20.026607
+Pokolenie nr=  561 najlepszy=  0(dl=17.430323), najgorszy= 42(dl=21.353548), œrednia_dl=20.024703
+Pokolenie nr=  562 najlepszy=  0(dl=17.430323), najgorszy= 57(dl=22.717521), œrednia_dl=20.027409
+Pokolenie nr=  563 najlepszy=  0(dl=17.430323), najgorszy=  4(dl=23.393267), œrednia_dl=20.090891
+Pokolenie nr=  564 najlepszy=  0(dl=17.430323), najgorszy= 20(dl=23.393267), œrednia_dl=20.046029
+Pokolenie nr=  565 najlepszy=  0(dl=17.430323), najgorszy=  3(dl=23.393267), œrednia_dl=20.148311
+Pokolenie nr=  566 najlepszy=  0(dl=17.430323), najgorszy= 12(dl=20.857870), œrednia_dl=20.116969
+Pokolenie nr=  567 najlepszy=  0(dl=17.430323), najgorszy=127(dl=21.653954), œrednia_dl=19.959499
+Pokolenie nr=  568 najlepszy=  0(dl=17.430323), najgorszy=144(dl=20.425752), œrednia_dl=19.987018
+Pokolenie nr=  569 najlepszy=  0(dl=17.430323), najgorszy=  7(dl=21.813534), œrednia_dl=20.090409
+Pokolenie nr=  570 najlepszy=  0(dl=17.430323), najgorszy= 47(dl=22.442767), œrednia_dl=20.089229
+Pokolenie nr=  571 najlepszy=  0(dl=17.430323), najgorszy=108(dl=22.725340), œrednia_dl=20.145092
+Pokolenie nr=  572 najlepszy=  0(dl=17.430323), najgorszy= 65(dl=21.217829), œrednia_dl=20.267740
+Pokolenie nr=  573 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=23.393267), œrednia_dl=20.113970
+Pokolenie nr=  574 najlepszy=  0(dl=17.430323), najgorszy= 42(dl=22.049418), œrednia_dl=20.056138
+Pokolenie nr=  575 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=20.022679), œrednia_dl=20.101823
+Pokolenie nr=  576 najlepszy=  0(dl=17.430323), najgorszy=116(dl=23.393267), œrednia_dl=20.075530
+Pokolenie nr=  577 najlepszy=  0(dl=17.430323), najgorszy=113(dl=23.393267), œrednia_dl=19.990309
+Pokolenie nr=  578 najlepszy=  0(dl=17.430323), najgorszy= 12(dl=23.275782), œrednia_dl=20.038255
+Pokolenie nr=  579 najlepszy=  0(dl=17.430323), najgorszy=134(dl=23.393267), œrednia_dl=20.317840
+Pokolenie nr=  580 najlepszy=  0(dl=17.430323), najgorszy=113(dl=20.033947), œrednia_dl=20.124890
+Pokolenie nr=  581 najlepszy=  0(dl=17.430323), najgorszy=113(dl=20.797850), œrednia_dl=20.122853
+Pokolenie nr=  582 najlepszy=  0(dl=17.430323), najgorszy= 88(dl=23.393267), œrednia_dl=20.087431
+Pokolenie nr=  583 najlepszy=  0(dl=17.430323), najgorszy=127(dl=23.393267), œrednia_dl=20.021039
+Pokolenie nr=  584 najlepszy=  0(dl=17.430323), najgorszy=131(dl=22.104886), œrednia_dl=20.176480
+Pokolenie nr=  585 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=21.379761), œrednia_dl=19.953875
+Pokolenie nr=  586 najlepszy=  0(dl=17.430323), najgorszy=143(dl=20.857870), œrednia_dl=20.002883
+Pokolenie nr=  587 najlepszy=  0(dl=17.430323), najgorszy= 64(dl=23.393267), œrednia_dl=20.080947
+Pokolenie nr=  588 najlepszy=  0(dl=17.430323), najgorszy= 71(dl=23.393267), œrednia_dl=19.995527
+Pokolenie nr=  589 najlepszy=  0(dl=17.430323), najgorszy= 13(dl=21.379761), œrednia_dl=20.095167
+Pokolenie nr=  590 najlepszy=  0(dl=17.430323), najgorszy=129(dl=20.782271), œrednia_dl=19.999738
+Pokolenie nr=  591 najlepszy=  0(dl=17.430323), najgorszy=126(dl=20.782271), œrednia_dl=20.216031
+Pokolenie nr=  592 najlepszy=  0(dl=17.430323), najgorszy= 58(dl=22.725340), œrednia_dl=20.002277
+Pokolenie nr=  593 najlepszy=  0(dl=17.430323), najgorszy= 36(dl=21.067985), œrednia_dl=19.950151
+Pokolenie nr=  594 najlepszy=  0(dl=17.430323), najgorszy= 96(dl=20.138636), œrednia_dl=20.069058
+Pokolenie nr=  595 najlepszy=  0(dl=17.430323), najgorszy=129(dl=22.861839), œrednia_dl=20.069679
+Pokolenie nr=  596 najlepszy=  0(dl=17.430323), najgorszy= 72(dl=21.379761), œrednia_dl=20.125564
+Pokolenie nr=  597 najlepszy=  0(dl=17.430323), najgorszy=108(dl=23.393267), œrednia_dl=20.080890
+Pokolenie nr=  598 najlepszy=  0(dl=17.430323), najgorszy=128(dl=23.393267), œrednia_dl=19.953557
+Pokolenie nr=  599 najlepszy=  0(dl=17.430323), najgorszy= 82(dl=23.393267), œrednia_dl=20.121238
+Pokolenie nr=  600 najlepszy=  0(dl=17.430323), najgorszy=105(dl=21.229617), œrednia_dl=20.064863
+Pokolenie nr=  601 najlepszy=  0(dl=17.430323), najgorszy=113(dl=23.393267), œrednia_dl=20.137238
+Pokolenie nr=  602 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=21.757472), œrednia_dl=20.118893
+Pokolenie nr=  603 najlepszy=  0(dl=17.430323), najgorszy=105(dl=21.379761), œrednia_dl=19.919677
+Pokolenie nr=  604 najlepszy=  0(dl=17.430323), najgorszy=139(dl=23.299690), œrednia_dl=20.131080
+Pokolenie nr=  605 najlepszy=  0(dl=17.430323), najgorszy= 82(dl=20.425475), œrednia_dl=19.984822
+Pokolenie nr=  606 najlepszy=  0(dl=17.430323), najgorszy= 57(dl=23.393267), œrednia_dl=20.050836
+Pokolenie nr=  607 najlepszy=  0(dl=17.430323), najgorszy= 32(dl=23.660386), œrednia_dl=20.119107
+Pokolenie nr=  608 najlepszy=  0(dl=17.430323), najgorszy= 39(dl=21.653954), œrednia_dl=20.111500
+Pokolenie nr=  609 najlepszy=  0(dl=17.430323), najgorszy=132(dl=21.067985), œrednia_dl=20.026271
+Pokolenie nr=  610 najlepszy=  0(dl=17.430323), najgorszy=145(dl=22.725340), œrednia_dl=20.082137
+Pokolenie nr=  611 najlepszy=  0(dl=17.430323), najgorszy= 22(dl=21.067985), œrednia_dl=19.943392
+Pokolenie nr=  612 najlepszy=  0(dl=17.430323), najgorszy= 62(dl=23.611766), œrednia_dl=19.976038
+Pokolenie nr=  613 najlepszy=  0(dl=17.430323), najgorszy=  7(dl=24.246518), œrednia_dl=20.066985
+Pokolenie nr=  614 najlepszy=  0(dl=17.430323), najgorszy= 82(dl=21.379761), œrednia_dl=20.048739
+Pokolenie nr=  615 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=20.022679), œrednia_dl=19.937372
+Pokolenie nr=  616 najlepszy=  0(dl=17.430323), najgorszy=104(dl=21.181758), œrednia_dl=19.985624
+Pokolenie nr=  617 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=19.871130), œrednia_dl=20.022915
+Pokolenie nr=  618 najlepszy=  0(dl=17.430323), najgorszy=124(dl=21.653954), œrednia_dl=20.103411
+Pokolenie nr=  619 najlepszy=  0(dl=17.430323), najgorszy=109(dl=23.976123), œrednia_dl=20.168020
+Pokolenie nr=  620 najlepszy=  0(dl=17.430323), najgorszy= 29(dl=22.764158), œrednia_dl=20.021514
+Pokolenie nr=  621 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=23.393267), œrednia_dl=19.923544
+Pokolenie nr=  622 najlepszy=  0(dl=17.430323), najgorszy= 71(dl=22.725340), œrednia_dl=19.987588
+Pokolenie nr=  623 najlepszy=  0(dl=17.430323), najgorszy=107(dl=23.660386), œrednia_dl=20.133263
+Pokolenie nr=  624 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=20.307450), œrednia_dl=20.002686
+Pokolenie nr=  625 najlepszy=  0(dl=17.430323), najgorszy= 70(dl=21.114325), œrednia_dl=20.130966
+Pokolenie nr=  626 najlepszy=  0(dl=17.430323), najgorszy= 91(dl=23.314418), œrednia_dl=20.154497
+Pokolenie nr=  627 najlepszy=  0(dl=17.430323), najgorszy=109(dl=21.114325), œrednia_dl=20.225938
+Pokolenie nr=  628 najlepszy=  0(dl=17.430323), najgorszy=146(dl=20.396564), œrednia_dl=20.183627
+Pokolenie nr=  629 najlepszy=  0(dl=17.430323), najgorszy=103(dl=21.742302), œrednia_dl=20.111677
+Pokolenie nr=  630 najlepszy=  0(dl=17.430323), najgorszy=133(dl=20.590607), œrednia_dl=20.083268
+Pokolenie nr=  631 najlepszy=  0(dl=17.430323), najgorszy= 35(dl=21.114325), œrednia_dl=20.009948
+Pokolenie nr=  632 najlepszy=  0(dl=17.430323), najgorszy=137(dl=20.022679), œrednia_dl=19.813205
+Pokolenie nr=  633 najlepszy=  0(dl=17.430323), najgorszy=133(dl=21.379761), œrednia_dl=20.029205
+Pokolenie nr=  634 najlepszy=  0(dl=17.430323), najgorszy= 45(dl=22.725340), œrednia_dl=19.912109
+Pokolenie nr=  635 najlepszy=  0(dl=17.430323), najgorszy=131(dl=21.067985), œrednia_dl=19.944319
+Pokolenie nr=  636 najlepszy=  0(dl=17.430323), najgorszy= 89(dl=20.276823), œrednia_dl=19.983444
+Pokolenie nr=  637 najlepszy=  0(dl=17.430323), najgorszy= 15(dl=23.393267), œrednia_dl=20.094454
+Pokolenie nr=  638 najlepszy=  0(dl=17.430323), najgorszy=147(dl=23.582673), œrednia_dl=20.023828
+Pokolenie nr=  639 najlepszy=  0(dl=17.430323), najgorszy= 96(dl=19.997179), œrednia_dl=19.919600
+Pokolenie nr=  640 najlepszy=  0(dl=17.430323), najgorszy=  9(dl=21.186685), œrednia_dl=20.114512
+Pokolenie nr=  641 najlepszy=  0(dl=17.430323), najgorszy=142(dl=20.474516), œrednia_dl=19.985223
+Pokolenie nr=  642 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=23.299690), œrednia_dl=20.097272
+Pokolenie nr=  643 najlepszy=  0(dl=17.430323), najgorszy= 48(dl=20.754298), œrednia_dl=19.916327
+Pokolenie nr=  644 najlepszy=  0(dl=17.430323), najgorszy= 15(dl=22.725340), œrednia_dl=20.096079
+Pokolenie nr=  645 najlepszy=  0(dl=17.430323), najgorszy=107(dl=21.114325), œrednia_dl=20.058587
+Pokolenie nr=  646 najlepszy=  0(dl=17.430323), najgorszy=  3(dl=20.823052), œrednia_dl=20.021182
+Pokolenie nr=  647 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=22.447238), œrednia_dl=20.171392
+Pokolenie nr=  648 najlepszy=  0(dl=17.430323), najgorszy= 10(dl=21.067985), œrednia_dl=20.094446
+Pokolenie nr=  649 najlepszy=  0(dl=17.430323), najgorszy= 79(dl=21.353907), œrednia_dl=19.933792
+Pokolenie nr=  650 najlepszy=  0(dl=17.430323), najgorszy= 59(dl=22.607216), œrednia_dl=19.980101
+Pokolenie nr=  651 najlepszy=  0(dl=17.430323), najgorszy= 72(dl=23.537652), œrednia_dl=20.034497
+Pokolenie nr=  652 najlepszy=  0(dl=17.430323), najgorszy=111(dl=19.714499), œrednia_dl=20.058755
+Pokolenie nr=  653 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=22.630069), œrednia_dl=20.170799
+Pokolenie nr=  654 najlepszy=  0(dl=17.430323), najgorszy=133(dl=21.570242), œrednia_dl=20.001389
+Pokolenie nr=  655 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=22.725340), œrednia_dl=19.969232
+Pokolenie nr=  656 najlepszy=  0(dl=17.430323), najgorszy=130(dl=20.850575), œrednia_dl=20.166952
+Pokolenie nr=  657 najlepszy=  0(dl=17.430323), najgorszy= 97(dl=20.712609), œrednia_dl=19.977421
+Pokolenie nr=  658 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=20.712609), œrednia_dl=19.903939
+Pokolenie nr=  659 najlepszy=  0(dl=17.430323), najgorszy= 87(dl=23.672256), œrednia_dl=20.049527
+Pokolenie nr=  660 najlepszy=  0(dl=17.430323), najgorszy=110(dl=20.763342), œrednia_dl=20.086254
+Pokolenie nr=  661 najlepszy=  0(dl=17.430323), najgorszy=127(dl=20.204971), œrednia_dl=19.983860
+Pokolenie nr=  662 najlepszy=  0(dl=17.430323), najgorszy= 18(dl=22.397197), œrednia_dl=20.049916
+Pokolenie nr=  663 najlepszy=  0(dl=17.430323), najgorszy= 64(dl=22.725340), œrednia_dl=20.158930
+Pokolenie nr=  664 najlepszy=  0(dl=17.430323), najgorszy=107(dl=22.447238), œrednia_dl=19.955960
+Pokolenie nr=  665 najlepszy=  0(dl=17.430323), najgorszy=128(dl=21.887601), œrednia_dl=19.986395
+Pokolenie nr=  666 najlepszy=  0(dl=17.430323), najgorszy= 56(dl=22.725443), œrednia_dl=20.139303
+Pokolenie nr=  667 najlepszy=  0(dl=17.430323), najgorszy= 84(dl=22.077814), œrednia_dl=19.957878
+Pokolenie nr=  668 najlepszy=  0(dl=17.430323), najgorszy=121(dl=21.056529), œrednia_dl=19.909742
+Pokolenie nr=  669 najlepszy=  0(dl=17.430323), najgorszy= 85(dl=22.049418), œrednia_dl=20.109548
+Pokolenie nr=  670 najlepszy=  0(dl=17.430323), najgorszy= 75(dl=20.590607), œrednia_dl=20.001816
+Pokolenie nr=  671 najlepszy=  0(dl=17.430323), najgorszy= 40(dl=22.447238), œrednia_dl=20.075449
+Pokolenie nr=  672 najlepszy=  0(dl=17.430323), najgorszy=119(dl=22.835950), œrednia_dl=20.112047
+Pokolenie nr=  673 najlepszy=  0(dl=17.430323), najgorszy= 67(dl=20.588467), œrednia_dl=20.071376
+Pokolenie nr=  674 najlepszy=  0(dl=17.430323), najgorszy= 79(dl=21.155171), œrednia_dl=20.034129
+Pokolenie nr=  675 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=20.351008), œrednia_dl=20.217369
+Pokolenie nr=  676 najlepszy=  0(dl=17.430323), najgorszy= 26(dl=20.276823), œrednia_dl=19.929295
+Pokolenie nr=  677 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=21.379761), œrednia_dl=20.008861
+Pokolenie nr=  678 najlepszy=  0(dl=17.430323), najgorszy=123(dl=22.835950), œrednia_dl=19.828086
+Pokolenie nr=  679 najlepszy=  0(dl=17.430323), najgorszy=113(dl=22.263738), œrednia_dl=20.095693
+Pokolenie nr=  680 najlepszy=  0(dl=17.430323), najgorszy= 70(dl=21.891884), œrednia_dl=19.943699
+Pokolenie nr=  681 najlepszy=  0(dl=17.430323), najgorszy= 46(dl=21.506478), œrednia_dl=20.273769
+Pokolenie nr=  682 najlepszy=  0(dl=17.430323), najgorszy= 37(dl=21.423275), œrednia_dl=20.065462
+Pokolenie nr=  683 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=22.607216), œrednia_dl=19.936697
+Pokolenie nr=  684 najlepszy=  0(dl=17.430323), najgorszy= 48(dl=22.607216), œrednia_dl=20.096666
+Pokolenie nr=  685 najlepszy=  0(dl=17.430323), najgorszy= 39(dl=22.447238), œrednia_dl=19.964166
+Pokolenie nr=  686 najlepszy=  0(dl=17.430323), najgorszy= 46(dl=21.566707), œrednia_dl=19.976180
+Pokolenie nr=  687 najlepszy=  0(dl=17.430323), najgorszy= 49(dl=19.157208), œrednia_dl=19.907838
+Pokolenie nr=  688 najlepszy=  0(dl=17.430323), najgorszy=141(dl=22.162355), œrednia_dl=19.997793
+Pokolenie nr=  689 najlepszy=  0(dl=17.430323), najgorszy=106(dl=18.826114), œrednia_dl=20.031423
+Pokolenie nr=  690 najlepszy=  0(dl=17.430323), najgorszy= 58(dl=20.590607), œrednia_dl=20.032388
+Pokolenie nr=  691 najlepszy=  0(dl=17.430323), najgorszy= 42(dl=22.725443), œrednia_dl=20.002519
+Pokolenie nr=  692 najlepszy=  0(dl=17.430323), najgorszy= 50(dl=22.104464), œrednia_dl=20.080800
+Pokolenie nr=  693 najlepszy=  0(dl=17.430323), najgorszy=105(dl=22.607216), œrednia_dl=19.910857
+Pokolenie nr=  694 najlepszy=  0(dl=17.430323), najgorszy= 85(dl=22.419063), œrednia_dl=19.846560
+Pokolenie nr=  695 najlepszy=  0(dl=17.430323), najgorszy= 34(dl=20.487874), œrednia_dl=19.990424
+Pokolenie nr=  696 najlepszy=  0(dl=17.430323), najgorszy= 38(dl=23.393267), œrednia_dl=20.179312
+Pokolenie nr=  697 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=20.850575), œrednia_dl=19.984146
+Pokolenie nr=  698 najlepszy=  0(dl=17.430323), najgorszy=102(dl=22.607216), œrednia_dl=20.055567
+Pokolenie nr=  699 najlepszy=  0(dl=17.430323), najgorszy=  9(dl=23.582673), œrednia_dl=19.977078
+Pokolenie nr=  700 najlepszy=  0(dl=17.430323), najgorszy= 23(dl=20.852685), œrednia_dl=19.916001
+Pokolenie nr=  701 najlepszy=  0(dl=17.430323), najgorszy=104(dl=20.737103), œrednia_dl=20.143671
+Pokolenie nr=  702 najlepszy=  0(dl=17.430323), najgorszy= 16(dl=20.712609), œrednia_dl=20.093915
+Pokolenie nr=  703 najlepszy=  0(dl=17.430323), najgorszy= 46(dl=22.104464), œrednia_dl=19.967762
+Pokolenie nr=  704 najlepszy=  0(dl=17.430323), najgorszy=134(dl=22.104464), œrednia_dl=19.823697
+Pokolenie nr=  705 najlepszy=  0(dl=17.430323), najgorszy= 92(dl=20.832821), œrednia_dl=20.012218
+Pokolenie nr=  706 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=23.264246), œrednia_dl=20.085329
+Pokolenie nr=  707 najlepszy=  0(dl=17.430323), najgorszy= 38(dl=20.874898), œrednia_dl=20.068921
+Pokolenie nr=  708 najlepszy=  0(dl=17.430323), najgorszy= 58(dl=22.725340), œrednia_dl=19.911570
+Pokolenie nr=  709 najlepszy=  0(dl=17.430323), najgorszy= 86(dl=21.918880), œrednia_dl=20.100011
+Pokolenie nr=  710 najlepszy=  0(dl=17.430323), najgorszy=132(dl=20.712609), œrednia_dl=19.927102
+Pokolenie nr=  711 najlepszy=  0(dl=17.430323), najgorszy=  4(dl=20.276823), œrednia_dl=20.063604
+Pokolenie nr=  712 najlepszy=  0(dl=17.430323), najgorszy= 88(dl=22.429144), œrednia_dl=19.851795
+Pokolenie nr=  713 najlepszy=  0(dl=17.430323), najgorszy= 48(dl=20.330882), œrednia_dl=19.943784
+Pokolenie nr=  714 najlepszy=  0(dl=17.430323), najgorszy= 32(dl=20.590607), œrednia_dl=19.882819
+Pokolenie nr=  715 najlepszy=  0(dl=17.430323), najgorszy=126(dl=21.110947), œrednia_dl=19.967278
+Pokolenie nr=  716 najlepszy=  0(dl=17.430323), najgorszy= 82(dl=21.566707), œrednia_dl=19.964082
+Pokolenie nr=  717 najlepszy=  0(dl=17.430323), najgorszy=146(dl=22.835950), œrednia_dl=20.089125
+Pokolenie nr=  718 najlepszy=  0(dl=17.430323), najgorszy= 40(dl=22.835950), œrednia_dl=20.074213
+Pokolenie nr=  719 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=23.582673), œrednia_dl=20.037654
+Pokolenie nr=  720 najlepszy=  0(dl=17.430323), najgorszy=117(dl=22.607216), œrednia_dl=20.076380
+Pokolenie nr=  721 najlepszy=  0(dl=17.430323), najgorszy= 21(dl=21.278587), œrednia_dl=20.102915
+Pokolenie nr=  722 najlepszy=  0(dl=17.430323), najgorszy= 48(dl=22.607216), œrednia_dl=19.945100
+Pokolenie nr=  723 najlepszy=  0(dl=17.430323), najgorszy=108(dl=22.888155), œrednia_dl=20.072574
+Pokolenie nr=  724 najlepszy=  0(dl=17.430323), najgorszy= 47(dl=20.823052), œrednia_dl=19.874685
+Pokolenie nr=  725 najlepszy=  0(dl=17.430323), najgorszy=125(dl=19.818241), œrednia_dl=19.964994
+Pokolenie nr=  726 najlepszy=  0(dl=17.430323), najgorszy=138(dl=22.607216), œrednia_dl=20.180171
+Pokolenie nr=  727 najlepszy=  0(dl=17.430323), najgorszy= 12(dl=22.607216), œrednia_dl=20.110021
+Pokolenie nr=  728 najlepszy=  0(dl=17.430323), najgorszy= 45(dl=20.591263), œrednia_dl=19.976355
+Pokolenie nr=  729 najlepszy=  0(dl=17.430323), najgorszy= 84(dl=21.566707), œrednia_dl=20.118672
+Pokolenie nr=  730 najlepszy=  0(dl=17.430323), najgorszy=118(dl=23.035513), œrednia_dl=19.897404
+Pokolenie nr=  731 najlepszy=  0(dl=17.430323), najgorszy= 16(dl=23.537652), œrednia_dl=19.962227
+Pokolenie nr=  732 najlepszy=  0(dl=17.430323), najgorszy= 16(dl=22.607216), œrednia_dl=20.051979
+Pokolenie nr=  733 najlepszy=  0(dl=17.430323), najgorszy=146(dl=19.737143), œrednia_dl=20.062093
+Pokolenie nr=  734 najlepszy=  0(dl=17.430323), najgorszy= 71(dl=21.566707), œrednia_dl=19.912426
+Pokolenie nr=  735 najlepszy=  0(dl=17.430323), najgorszy=138(dl=22.607216), œrednia_dl=20.112227
+Pokolenie nr=  736 najlepszy=  0(dl=17.430323), najgorszy=126(dl=22.888155), œrednia_dl=20.104550
+Pokolenie nr=  737 najlepszy=  0(dl=17.430323), najgorszy= 77(dl=22.835950), œrednia_dl=19.961651
+Pokolenie nr=  738 najlepszy=  0(dl=17.430323), najgorszy= 36(dl=22.607216), œrednia_dl=19.969434
+Pokolenie nr=  739 najlepszy=  0(dl=17.430323), najgorszy=124(dl=19.007480), œrednia_dl=19.794686
+Pokolenie nr=  740 najlepszy=  0(dl=17.430323), najgorszy=122(dl=20.850575), œrednia_dl=20.184745
+Pokolenie nr=  741 najlepszy=  0(dl=17.430323), najgorszy=103(dl=21.067985), œrednia_dl=19.917571
+Pokolenie nr=  742 najlepszy=  0(dl=17.430323), najgorszy= 74(dl=21.861940), œrednia_dl=19.868234
+Pokolenie nr=  743 najlepszy=  0(dl=17.430323), najgorszy= 60(dl=21.566707), œrednia_dl=19.856239
+Pokolenie nr=  744 najlepszy=  0(dl=17.430323), najgorszy=125(dl=22.607216), œrednia_dl=19.887079
+Pokolenie nr=  745 najlepszy=  0(dl=17.430323), najgorszy= 33(dl=21.273890), œrednia_dl=19.877808
+Pokolenie nr=  746 najlepszy=  0(dl=17.430323), najgorszy= 92(dl=21.858236), œrednia_dl=20.075549
+Pokolenie nr=  747 najlepszy=  0(dl=17.430323), najgorszy=145(dl=21.904223), œrednia_dl=19.974079
+Pokolenie nr=  748 najlepszy=  0(dl=17.430323), najgorszy= 41(dl=22.481820), œrednia_dl=19.965352
+Pokolenie nr=  749 najlepszy=  0(dl=17.430323), najgorszy= 83(dl=22.835950), œrednia_dl=19.882558
+Pokolenie nr=  750 najlepszy=  0(dl=17.430323), najgorszy= 81(dl=20.396564), œrednia_dl=19.928323
+Pokolenie nr=  751 najlepszy=  0(dl=17.430323), najgorszy= 99(dl=22.377814), œrednia_dl=20.015073
+Pokolenie nr=  752 najlepszy=  0(dl=17.430323), najgorszy= 24(dl=22.104464), œrednia_dl=20.040686
+Pokolenie nr=  753 najlepszy=  0(dl=17.430323), najgorszy= 85(dl=22.104464), œrednia_dl=19.922836
+Pokolenie nr=  754 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=20.579142), œrednia_dl=19.905233
+Pokolenie nr=  755 najlepszy=  0(dl=17.430323), najgorszy=140(dl=20.396564), œrednia_dl=19.883912
+Pokolenie nr=  756 najlepszy=  0(dl=17.430323), najgorszy= 37(dl=20.615821), œrednia_dl=19.938780
+Pokolenie nr=  757 najlepszy=  0(dl=17.430323), najgorszy= 26(dl=20.712609), œrednia_dl=20.035338
+Pokolenie nr=  758 najlepszy=  0(dl=17.430323), najgorszy=129(dl=22.865494), œrednia_dl=20.056087
+Pokolenie nr=  759 najlepszy=  0(dl=17.430323), najgorszy= 77(dl=20.850575), œrednia_dl=19.953473
+Pokolenie nr=  760 najlepszy=  0(dl=17.430323), najgorszy=137(dl=22.480095), œrednia_dl=20.004289
+Pokolenie nr=  761 najlepszy=  0(dl=17.430323), najgorszy= 22(dl=22.853340), œrednia_dl=19.767475
+Pokolenie nr=  762 najlepszy=  0(dl=17.430323), najgorszy= 62(dl=22.104464), œrednia_dl=19.881951
+Pokolenie nr=  763 najlepszy=  0(dl=17.430323), najgorszy= 51(dl=22.447238), œrednia_dl=19.975346
+Pokolenie nr=  764 najlepszy=  0(dl=17.430323), najgorszy= 18(dl=20.764319), œrednia_dl=20.078159
+Pokolenie nr=  765 najlepszy=  0(dl=17.430323), najgorszy= 27(dl=22.336036), œrednia_dl=20.022256
+Pokolenie nr=  766 najlepszy=  0(dl=17.430323), najgorszy=118(dl=22.835950), œrednia_dl=20.049368
+Pokolenie nr=  767 najlepszy=  0(dl=17.430323), najgorszy= 35(dl=19.229870), œrednia_dl=19.942669
+Pokolenie nr=  768 najlepszy=  0(dl=17.430323), najgorszy= 51(dl=20.976104), œrednia_dl=19.813956
+Pokolenie nr=  769 najlepszy=  0(dl=17.430323), najgorszy= 13(dl=22.598277), œrednia_dl=19.947561
+Pokolenie nr=  770 najlepszy=  0(dl=17.430323), najgorszy=114(dl=22.607216), œrednia_dl=20.012208
+Pokolenie nr=  771 najlepszy=  0(dl=17.430323), najgorszy= 34(dl=23.299690), œrednia_dl=20.116560
+Pokolenie nr=  772 najlepszy=  0(dl=17.430323), najgorszy= 98(dl=20.396564), œrednia_dl=20.019659
+Pokolenie nr=  773 najlepszy=  0(dl=17.430323), najgorszy= 76(dl=20.798007), œrednia_dl=20.162276
+Pokolenie nr=  774 najlepszy=  0(dl=17.430323), najgorszy= 66(dl=22.447238), œrednia_dl=19.767655
+Pokolenie nr=  775 najlepszy=  0(dl=17.430323), najgorszy= 79(dl=23.025644), œrednia_dl=19.946979
+Pokolenie nr=  776 najlepszy=  0(dl=17.430323), najgorszy= 45(dl=22.607216), œrednia_dl=20.049930
+Pokolenie nr=  777 najlepszy=  0(dl=17.430323), najgorszy= 75(dl=20.615821), œrednia_dl=19.990640
+Pokolenie nr=  778 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=22.882472), œrednia_dl=20.095298
+Pokolenie nr=  779 najlepszy=  0(dl=17.430323), najgorszy= 18(dl=20.602263), œrednia_dl=19.865991
+Pokolenie nr=  780 najlepszy=  0(dl=17.430323), najgorszy= 99(dl=21.976708), œrednia_dl=19.838914
+Pokolenie nr=  781 najlepszy=  0(dl=17.430323), najgorszy=134(dl=22.104464), œrednia_dl=20.035516
+Pokolenie nr=  782 najlepszy=  0(dl=17.430323), najgorszy=110(dl=22.104464), œrednia_dl=19.975226
+Pokolenie nr=  783 najlepszy=  0(dl=17.430323), najgorszy= 19(dl=22.835950), œrednia_dl=20.027845
+Pokolenie nr=  784 najlepszy=  0(dl=17.430323), najgorszy=117(dl=18.116819), œrednia_dl=19.941608
+Pokolenie nr=  785 najlepszy=  0(dl=17.430323), najgorszy= 98(dl=22.042874), œrednia_dl=19.814113
+Pokolenie nr=  786 najlepszy=  0(dl=17.430323), najgorszy= 31(dl=22.835950), œrednia_dl=19.986083
+Pokolenie nr=  787 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=21.615503), œrednia_dl=19.817273
+Pokolenie nr=  788 najlepszy=  0(dl=17.430323), najgorszy= 33(dl=22.835950), œrednia_dl=20.011754
+Pokolenie nr=  789 najlepszy=  0(dl=17.430323), najgorszy=146(dl=22.607216), œrednia_dl=19.931065
+Pokolenie nr=  790 najlepszy=  0(dl=17.430323), najgorszy= 77(dl=22.835950), œrednia_dl=19.999875
+Pokolenie nr=  791 najlepszy=  0(dl=17.430323), najgorszy= 59(dl=20.615821), œrednia_dl=19.931036
+Pokolenie nr=  792 najlepszy=  0(dl=17.430323), najgorszy= 29(dl=23.762207), œrednia_dl=19.992565
+Pokolenie nr=  793 najlepszy=  0(dl=17.430323), najgorszy=135(dl=20.364385), œrednia_dl=19.886966
+Pokolenie nr=  794 najlepszy=  0(dl=17.430323), najgorszy=120(dl=21.252537), œrednia_dl=19.924423
+Pokolenie nr=  795 najlepszy=  0(dl=17.430323), najgorszy= 75(dl=22.835950), œrednia_dl=19.921977
+Pokolenie nr=  796 najlepszy=  0(dl=17.430323), najgorszy= 39(dl=20.798007), œrednia_dl=19.860184
+Pokolenie nr=  797 najlepszy=  0(dl=17.430323), najgorszy= 49(dl=22.447238), œrednia_dl=20.019795
+Pokolenie nr=  798 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=22.865494), œrednia_dl=19.863154
+Pokolenie nr=  799 najlepszy=  0(dl=17.430323), najgorszy=108(dl=22.481820), œrednia_dl=19.961111
+Pokolenie nr=  800 najlepszy=  0(dl=17.430323), najgorszy= 63(dl=22.429144), œrednia_dl=20.016418
+Pokolenie nr=  801 najlepszy=  0(dl=17.430323), najgorszy= 51(dl=20.712609), œrednia_dl=19.820029
+Pokolenie nr=  802 najlepszy=  0(dl=17.430323), najgorszy=102(dl=22.104464), œrednia_dl=20.023136
+Pokolenie nr=  803 najlepszy=  0(dl=17.430323), najgorszy=141(dl=22.835950), œrednia_dl=19.813871
+Pokolenie nr=  804 najlepszy=  0(dl=17.430323), najgorszy=138(dl=21.615503), œrednia_dl=19.957667
+Pokolenie nr=  805 najlepszy=  0(dl=17.430323), najgorszy=117(dl=21.976708), œrednia_dl=19.702787
+Pokolenie nr=  806 najlepszy=  0(dl=17.430323), najgorszy=  5(dl=22.607216), œrednia_dl=19.856407
+Pokolenie nr=  807 najlepszy=  0(dl=17.430323), najgorszy= 96(dl=21.566707), œrednia_dl=19.885619
+Pokolenie nr=  808 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=21.861940), œrednia_dl=20.016794
+Pokolenie nr=  809 najlepszy=  0(dl=17.430323), najgorszy= 86(dl=21.570242), œrednia_dl=20.044576
+Pokolenie nr=  810 najlepszy=  0(dl=17.430323), najgorszy=103(dl=22.447238), œrednia_dl=19.844827
+Pokolenie nr=  811 najlepszy=  0(dl=17.430323), najgorszy= 47(dl=22.743448), œrednia_dl=19.808547
+Pokolenie nr=  812 najlepszy=  0(dl=17.430323), najgorszy=126(dl=20.615821), œrednia_dl=19.960532
+Pokolenie nr=  813 najlepszy=  0(dl=17.430323), najgorszy=117(dl=20.615821), œrednia_dl=19.789999
+Pokolenie nr=  814 najlepszy=  0(dl=17.430323), najgorszy=146(dl=20.764319), œrednia_dl=19.834950
+Pokolenie nr=  815 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=21.850663), œrednia_dl=19.858487
+Pokolenie nr=  816 najlepszy=  0(dl=17.430323), najgorszy= 29(dl=22.888155), œrednia_dl=19.746625
+Pokolenie nr=  817 najlepszy=  0(dl=17.430323), najgorszy=119(dl=21.861940), œrednia_dl=20.081822
+Pokolenie nr=  818 najlepszy=  0(dl=17.430323), najgorszy=139(dl=20.515402), œrednia_dl=19.791858
+Pokolenie nr=  819 najlepszy=  0(dl=17.430323), najgorszy= 10(dl=23.354808), œrednia_dl=19.908316
+Pokolenie nr=  820 najlepszy=  0(dl=17.430323), najgorszy= 99(dl=21.566707), œrednia_dl=19.743774
+Pokolenie nr=  821 najlepszy=  0(dl=17.430323), najgorszy= 20(dl=20.578598), œrednia_dl=19.893691
+Pokolenie nr=  822 najlepszy=  0(dl=17.430323), najgorszy= 87(dl=22.898646), œrednia_dl=19.811771
+Pokolenie nr=  823 najlepszy=  0(dl=17.430323), najgorszy= 60(dl=22.734850), œrednia_dl=20.081610
+Pokolenie nr=  824 najlepszy=  0(dl=17.430323), najgorszy= 13(dl=19.657256), œrednia_dl=19.799115
+Pokolenie nr=  825 najlepszy=  0(dl=17.430323), najgorszy= 43(dl=21.322265), œrednia_dl=19.872674
+Pokolenie nr=  826 najlepszy=  0(dl=17.430323), najgorszy=116(dl=21.566707), œrednia_dl=19.699048
+Pokolenie nr=  827 najlepszy=  0(dl=17.430323), najgorszy= 85(dl=22.447238), œrednia_dl=19.914151
+Pokolenie nr=  828 najlepszy=  0(dl=17.430323), najgorszy=136(dl=20.597591), œrednia_dl=19.812585
+Pokolenie nr=  829 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=23.299690), œrednia_dl=19.707700
+Pokolenie nr=  830 najlepszy=  0(dl=17.430323), najgorszy= 43(dl=21.157198), œrednia_dl=19.663484
+Pokolenie nr=  831 najlepszy=  0(dl=17.430323), najgorszy=135(dl=22.898646), œrednia_dl=19.845110
+Pokolenie nr=  832 najlepszy=  0(dl=17.430323), najgorszy=  5(dl=21.566707), œrednia_dl=19.875049
+Pokolenie nr=  833 najlepszy=  0(dl=17.430323), najgorszy=149(dl=19.832033), œrednia_dl=19.653691
+Pokolenie nr=  834 najlepszy=  0(dl=17.430323), najgorszy= 76(dl=19.661658), œrednia_dl=19.833407
+Pokolenie nr=  835 najlepszy=  0(dl=17.430323), najgorszy= 95(dl=22.419063), œrednia_dl=19.803334
+Pokolenie nr=  836 najlepszy=  0(dl=17.430323), najgorszy= 31(dl=22.481820), œrednia_dl=19.660133
+Pokolenie nr=  837 najlepszy=  0(dl=17.430323), najgorszy=  4(dl=20.850575), œrednia_dl=19.757550
+Pokolenie nr=  838 najlepszy=  0(dl=17.430323), najgorszy= 23(dl=20.396564), œrednia_dl=19.813551
+Pokolenie nr=  839 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=22.419063), œrednia_dl=19.837039
+Pokolenie nr=  840 najlepszy=  0(dl=17.430323), najgorszy= 66(dl=19.918954), œrednia_dl=19.808463
+Pokolenie nr=  841 najlepszy=  0(dl=17.430323), najgorszy=135(dl=21.490911), œrednia_dl=19.677234
+Pokolenie nr=  842 najlepszy=  0(dl=17.430323), najgorszy=106(dl=20.764319), œrednia_dl=19.711814
+Pokolenie nr=  843 najlepszy=  0(dl=17.430323), najgorszy= 27(dl=20.615821), œrednia_dl=19.575195
+Pokolenie nr=  844 najlepszy=  0(dl=17.430323), najgorszy=129(dl=20.615821), œrednia_dl=19.660852
+Pokolenie nr=  845 najlepszy=  0(dl=17.430323), najgorszy= 83(dl=20.768765), œrednia_dl=19.944194
+Pokolenie nr=  846 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=20.615821), œrednia_dl=19.798551
+Pokolenie nr=  847 najlepszy=  0(dl=17.430323), najgorszy= 41(dl=21.220982), œrednia_dl=19.816053
+Pokolenie nr=  848 najlepszy=  0(dl=17.430323), najgorszy= 50(dl=20.615821), œrednia_dl=19.869998
+Pokolenie nr=  849 najlepszy=  0(dl=17.430323), najgorszy= 22(dl=20.615821), œrednia_dl=19.705064
+Pokolenie nr=  850 najlepszy=  0(dl=17.430323), najgorszy=118(dl=22.898646), œrednia_dl=19.764803
+Pokolenie nr=  851 najlepszy=  0(dl=17.430323), najgorszy= 43(dl=22.691023), œrednia_dl=19.785356
+Pokolenie nr=  852 najlepszy=  0(dl=17.430323), najgorszy=  1(dl=22.447238), œrednia_dl=19.603187
+Pokolenie nr=  853 najlepszy=  0(dl=17.430323), najgorszy= 33(dl=20.615821), œrednia_dl=19.744932
+Pokolenie nr=  854 najlepszy=  0(dl=17.430323), najgorszy= 61(dl=21.566707), œrednia_dl=19.822783
+Pokolenie nr=  855 najlepszy=  0(dl=17.430323), najgorszy= 30(dl=22.743448), œrednia_dl=19.776340
+Pokolenie nr=  856 najlepszy=  0(dl=17.430323), najgorszy= 65(dl=22.831308), œrednia_dl=19.707965
+Pokolenie nr=  857 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=20.615821), œrednia_dl=19.762168
+Pokolenie nr=  858 najlepszy=  0(dl=17.430323), najgorszy= 51(dl=20.764319), œrednia_dl=19.689423
+Pokolenie nr=  859 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=21.121005), œrednia_dl=19.816754
+Pokolenie nr=  860 najlepszy=  0(dl=17.430323), najgorszy=  9(dl=22.898646), œrednia_dl=19.804460
+Pokolenie nr=  861 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=21.894162), œrednia_dl=19.683431
+Pokolenie nr=  862 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=20.597591), œrednia_dl=19.667098
+Pokolenie nr=  863 najlepszy=  0(dl=17.430323), najgorszy=103(dl=20.615821), œrednia_dl=19.815246
+Pokolenie nr=  864 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=20.615821), œrednia_dl=19.793806
+Pokolenie nr=  865 najlepszy=  0(dl=17.430323), najgorszy= 82(dl=20.852685), œrednia_dl=19.632730
+Pokolenie nr=  866 najlepszy=  0(dl=17.430323), najgorszy= 91(dl=20.396564), œrednia_dl=19.758146
+Pokolenie nr=  867 najlepszy=  0(dl=17.430323), najgorszy=147(dl=20.722783), œrednia_dl=19.735251
+Pokolenie nr=  868 najlepszy=  0(dl=17.430323), najgorszy= 44(dl=22.995646), œrednia_dl=19.822066
+Pokolenie nr=  869 najlepszy=  0(dl=17.430323), najgorszy= 75(dl=22.447238), œrednia_dl=19.746712
+Pokolenie nr=  870 najlepszy=  0(dl=17.430323), najgorszy= 66(dl=18.117801), œrednia_dl=19.626554
+Pokolenie nr=  871 najlepszy=  0(dl=17.430323), najgorszy= 97(dl=21.861940), œrednia_dl=19.794830
+Pokolenie nr=  872 najlepszy=  0(dl=17.430323), najgorszy= 60(dl=21.681932), œrednia_dl=19.810488
+Pokolenie nr=  873 najlepszy=  0(dl=17.430323), najgorszy= 64(dl=22.743448), œrednia_dl=19.879442
+Pokolenie nr=  874 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=21.861940), œrednia_dl=19.749875
+Pokolenie nr=  875 najlepszy=  0(dl=17.430323), najgorszy= 67(dl=18.762761), œrednia_dl=19.804681
+Pokolenie nr=  876 najlepszy=  0(dl=17.430323), najgorszy=135(dl=21.566707), œrednia_dl=19.566818
+Pokolenie nr=  877 najlepszy=  0(dl=17.430323), najgorszy= 21(dl=20.128434), œrednia_dl=19.769543
+Pokolenie nr=  878 najlepszy=  0(dl=17.430323), najgorszy= 96(dl=20.597591), œrednia_dl=19.768595
+Pokolenie nr=  879 najlepszy=  0(dl=17.430323), najgorszy=107(dl=22.888155), œrednia_dl=19.662106
+Pokolenie nr=  880 najlepszy=  0(dl=17.430323), najgorszy= 54(dl=20.852685), œrednia_dl=19.716206
+Pokolenie nr=  881 najlepszy=  0(dl=17.430323), najgorszy= 63(dl=21.442754), œrednia_dl=19.708301
+Pokolenie nr=  882 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=21.861940), œrednia_dl=19.714770
+Pokolenie nr=  883 najlepszy=  0(dl=17.430323), najgorszy= 73(dl=20.764319), œrednia_dl=19.804833
+Pokolenie nr=  884 najlepszy=  0(dl=17.430323), najgorszy=126(dl=21.566707), œrednia_dl=19.674406
+Pokolenie nr=  885 najlepszy=  0(dl=17.430323), najgorszy= 74(dl=19.813079), œrednia_dl=19.718140
+Pokolenie nr=  886 najlepszy=  0(dl=17.430323), najgorszy=113(dl=20.724396), œrednia_dl=19.760739
+Pokolenie nr=  887 najlepszy=  0(dl=17.430323), najgorszy=124(dl=20.522796), œrednia_dl=19.818398
+Pokolenie nr=  888 najlepszy=  0(dl=17.430323), najgorszy= 33(dl=22.447238), œrednia_dl=19.793266
+Pokolenie nr=  889 najlepszy=  0(dl=17.430323), najgorszy=100(dl=20.597591), œrednia_dl=19.622401
+Pokolenie nr=  890 najlepszy=  0(dl=17.430323), najgorszy=  2(dl=21.469721), œrednia_dl=19.648840
+Pokolenie nr=  891 najlepszy=  0(dl=17.430323), najgorszy= 30(dl=21.681932), œrednia_dl=19.632441
+Pokolenie nr=  892 najlepszy=  0(dl=17.430323), najgorszy=133(dl=22.041531), œrednia_dl=19.740112
+Pokolenie nr=  893 najlepszy=  0(dl=17.430323), najgorszy= 14(dl=20.828818), œrednia_dl=19.748445
+Pokolenie nr=  894 najlepszy=  0(dl=17.430323), najgorszy= 99(dl=22.447238), œrednia_dl=19.619509
+Pokolenie nr=  895 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=22.752874), œrednia_dl=19.773680
+Pokolenie nr=  896 najlepszy=  0(dl=17.430323), najgorszy= 76(dl=22.186812), œrednia_dl=19.786566
+Pokolenie nr=  897 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=20.869095), œrednia_dl=19.698485
+Pokolenie nr=  898 najlepszy=  0(dl=17.430323), najgorszy=139(dl=20.994481), œrednia_dl=19.661972
+Pokolenie nr=  899 najlepszy=  0(dl=17.430323), najgorszy= 86(dl=22.101197), œrednia_dl=19.614323
+Pokolenie nr=  900 najlepszy=  0(dl=17.430323), najgorszy= 23(dl=20.269302), œrednia_dl=19.591190
+Pokolenie nr=  901 najlepszy=  0(dl=17.430323), najgorszy= 54(dl=20.640449), œrednia_dl=19.665416
+Pokolenie nr=  902 najlepszy=  0(dl=17.430323), najgorszy= 41(dl=22.888155), œrednia_dl=19.783923
+Pokolenie nr=  903 najlepszy=  0(dl=17.430323), najgorszy= 28(dl=20.475031), œrednia_dl=19.756532
+Pokolenie nr=  904 najlepszy=  0(dl=17.430323), najgorszy= 16(dl=20.475031), œrednia_dl=19.579560
+Pokolenie nr=  905 najlepszy=  0(dl=17.430323), najgorszy= 17(dl=20.597591), œrednia_dl=19.605224
+Pokolenie nr=  906 najlepszy=  0(dl=17.430323), najgorszy=104(dl=20.475031), œrednia_dl=19.524091
+Pokolenie nr=  907 najlepszy=  0(dl=17.430323), najgorszy= 71(dl=21.387294), œrednia_dl=19.687493
+Pokolenie nr=  908 najlepszy=  0(dl=17.430323), najgorszy= 69(dl=20.475031), œrednia_dl=19.699801
+Pokolenie nr=  909 najlepszy=  0(dl=17.430323), najgorszy=137(dl=20.475031), œrednia_dl=19.773855
+Pokolenie nr=  910 najlepszy=  0(dl=17.430323), najgorszy=102(dl=20.475031), œrednia_dl=19.571711
+Pokolenie nr=  911 najlepszy=  0(dl=17.430323), najgorszy= 32(dl=23.526335), œrednia_dl=19.747057
+Pokolenie nr=  912 najlepszy=  0(dl=17.430323), najgorszy=105(dl=19.896028), œrednia_dl=19.545093
+Pokolenie nr=  913 najlepszy=  0(dl=17.430323), najgorszy= 56(dl=19.965799), œrednia_dl=19.491075
+Pokolenie nr=  914 najlepszy=  0(dl=17.430323), najgorszy= 59(dl=19.818241), œrednia_dl=19.674080
+Pokolenie nr=  915 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=23.642406), œrednia_dl=19.810464
+Pokolenie nr=  916 najlepszy=  0(dl=17.430323), najgorszy= 78(dl=20.768765), œrednia_dl=19.798656
+Pokolenie nr=  917 najlepszy=  0(dl=17.430323), najgorszy=119(dl=20.475031), œrednia_dl=19.560806
+Pokolenie nr=  918 najlepszy=  0(dl=17.430323), najgorszy= 25(dl=20.475031), œrednia_dl=19.729693
+Pokolenie nr=  919 najlepszy=  0(dl=17.430323), najgorszy= 67(dl=20.597591), œrednia_dl=19.756417
+Pokolenie nr=  920 najlepszy=  0(dl=17.430323), najgorszy=116(dl=18.947307), œrednia_dl=19.618250
+Pokolenie nr=  921 najlepszy=  0(dl=17.430323), najgorszy=147(dl=22.995646), œrednia_dl=19.724175
+Pokolenie nr=  922 najlepszy=  0(dl=17.430323), najgorszy= 39(dl=22.888155), œrednia_dl=19.580076
+Pokolenie nr=  923 najlepszy=  0(dl=17.430323), najgorszy=  8(dl=20.475031), œrednia_dl=19.697062
+Pokolenie nr=  924 najlepszy=  0(dl=17.430323), najgorszy= 53(dl=23.526335), œrednia_dl=19.643468
+Pokolenie nr=  925 najlepszy=  0(dl=17.430323), najgorszy= 18(dl=22.875031), œrednia_dl=19.666716
+Pokolenie nr=  926 najlepszy=  0(dl=17.430323), najgorszy=101(dl=22.995646), œrednia_dl=19.628850
+Pokolenie nr=  927 najlepszy=  0(dl=17.430323), najgorszy=129(dl=20.269302), œrednia_dl=19.690099
+Pokolenie nr=  928 najlepszy=  0(dl=17.430323), najgorszy=118(dl=18.947307), œrednia_dl=19.812304
+Pokolenie nr=  929 najlepszy=  0(dl=17.430323), najgorszy=  1(dl=20.475031), œrednia_dl=19.566611
+Pokolenie nr=  930 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=22.995646), œrednia_dl=19.590500
+Pokolenie nr=  931 najlepszy=  0(dl=17.430323), najgorszy=109(dl=20.981778), œrednia_dl=19.719616
+Pokolenie nr=  932 najlepszy=  0(dl=17.430323), najgorszy= 27(dl=20.269302), œrednia_dl=19.725588
+Pokolenie nr=  933 najlepszy=  0(dl=17.430323), najgorszy= 37(dl=22.995646), œrednia_dl=19.573542
+Pokolenie nr=  934 najlepszy=  0(dl=17.430323), najgorszy= 66(dl=20.475031), œrednia_dl=19.754957
+Pokolenie nr=  935 najlepszy=  0(dl=17.430323), najgorszy= 83(dl=22.995646), œrednia_dl=19.679598
+Pokolenie nr=  936 najlepszy=  0(dl=17.430323), najgorszy=103(dl=21.387294), œrednia_dl=19.666086
+Pokolenie nr=  937 najlepszy=  0(dl=17.430323), najgorszy= 70(dl=22.447238), œrednia_dl=19.677518
+Pokolenie nr=  938 najlepszy=  0(dl=17.430323), najgorszy= 68(dl=20.071529), œrednia_dl=19.584680
+Pokolenie nr=  939 najlepszy=  0(dl=17.430323), najgorszy=141(dl=21.942656), œrednia_dl=19.666034
+Pokolenie nr=  940 najlepszy=  0(dl=17.430323), najgorszy=  5(dl=20.475031), œrednia_dl=19.669874
+Pokolenie nr=  941 najlepszy=  0(dl=17.430323), najgorszy=  9(dl=20.475031), œrednia_dl=19.551066
+Pokolenie nr=  942 najlepszy=  0(dl=17.430323), najgorszy= 52(dl=20.475031), œrednia_dl=19.673142
+Pokolenie nr=  943 najlepszy=  0(dl=17.430323), najgorszy=121(dl=20.475031), œrednia_dl=19.818661
+Pokolenie nr=  944 najlepszy=  0(dl=17.430323), najgorszy= 40(dl=22.995646), œrednia_dl=19.639051
+Pokolenie nr=  945 najlepszy=  0(dl=17.430323), najgorszy=135(dl=19.517710), œrednia_dl=19.670922
+Pokolenie nr=  946 najlepszy=  0(dl=17.430323), najgorszy= 94(dl=20.269302), œrednia_dl=19.562279
+Pokolenie nr=  947 najlepszy=  0(dl=17.430323), najgorszy= 29(dl=20.475031), œrednia_dl=19.644772
+Pokolenie nr=  948 najlepszy=  0(dl=17.430323), najgorszy=120(dl=19.612736), œrednia_dl=19.726327
+Pokolenie nr=  949 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=20.475031), œrednia_dl=19.750502
+Pokolenie nr=  950 najlepszy=  0(dl=17.430323), najgorszy= 19(dl=23.238775), œrednia_dl=19.662362
+Pokolenie nr=  951 najlepszy=  0(dl=17.430323), najgorszy= 93(dl=20.071529), œrednia_dl=19.606183
+Pokolenie nr=  952 najlepszy=  0(dl=17.430323), najgorszy= 39(dl=20.269302), œrednia_dl=19.539441
+Pokolenie nr=  953 najlepszy=  0(dl=17.430323), najgorszy= 18(dl=20.475031), œrednia_dl=19.608319
+Pokolenie nr=  954 najlepszy=  0(dl=17.430323), najgorszy= 11(dl=21.894162), œrednia_dl=19.572818
+Pokolenie nr=  955 najlepszy=  0(dl=17.430323), najgorszy= 96(dl=20.071529), œrednia_dl=19.498639
+Pokolenie nr=  956 najlepszy=  0(dl=17.430323), najgorszy=121(dl=19.718681), œrednia_dl=19.533584
+Pokolenie nr=  957 najlepszy=  0(dl=17.430323), najgorszy= 19(dl=22.447238), œrednia_dl=19.643114
+Pokolenie nr=  958 najlepszy=  0(dl=17.430323), najgorszy= 67(dl=21.387294), œrednia_dl=19.606173
+Pokolenie nr=  959 najlepszy=  0(dl=17.430323), najgorszy= 27(dl=21.894162), œrednia_dl=19.630502
+Pokolenie nr=  960 najlepszy=  0(dl=17.430323), najgorszy=109(dl=20.475031), œrednia_dl=19.576254
+Pokolenie nr=  961 najlepszy=  0(dl=17.430323), najgorszy=  4(dl=20.475031), œrednia_dl=19.600979
+Pokolenie nr=  962 najlepszy=  0(dl=17.430323), najgorszy= 15(dl=20.475031), œrednia_dl=19.538188
+Pokolenie nr=  963 najlepszy=  0(dl=17.430323), najgorszy= 55(dl=20.640482), œrednia_dl=19.586160
+Pokolenie nr=  964 najlepszy=  0(dl=17.430323), najgorszy= 56(dl=20.475031), œrednia_dl=19.485752
+Pokolenie nr=  965 najlepszy=  0(dl=17.430323), najgorszy= 97(dl=20.269302), œrednia_dl=19.623694
+Pokolenie nr=  966 najlepszy= 79(dl=16.811326), najgorszy=149(dl=23.636351), œrednia_dl=19.600706
+Pokolenie nr=  967 najlepszy=  0(dl=16.811326), najgorszy= 80(dl=20.269302), œrednia_dl=19.601486
+Pokolenie nr=  968 najlepszy=  0(dl=16.811326), najgorszy= 16(dl=19.612736), œrednia_dl=19.579204
+Pokolenie nr=  969 najlepszy=  0(dl=16.811326), najgorszy= 24(dl=22.447238), œrednia_dl=19.636523
+Pokolenie nr=  970 najlepszy=  0(dl=16.811326), najgorszy=126(dl=23.642406), œrednia_dl=19.720102
+Pokolenie nr=  971 najlepszy=148(dl=17.278505), najgorszy= 89(dl=19.718681), œrednia_dl=19.659104
+Pokolenie nr=  972 najlepszy=  0(dl=17.278505), najgorszy=138(dl=19.717698), œrednia_dl=19.713299
+Pokolenie nr=  973 najlepszy=  0(dl=17.278505), najgorszy= 69(dl=22.875031), œrednia_dl=19.526152
+Pokolenie nr=  974 najlepszy=  0(dl=17.278505), najgorszy= 54(dl=22.995646), œrednia_dl=19.716462
+Pokolenie nr=  975 najlepszy=  0(dl=17.278505), najgorszy=109(dl=21.632607), œrednia_dl=19.664119
+Pokolenie nr=  976 najlepszy=  0(dl=17.278505), najgorszy=125(dl=20.269302), œrednia_dl=19.629348
+Pokolenie nr=  977 najlepszy=  0(dl=17.278505), najgorszy= 54(dl=20.475031), œrednia_dl=19.619080
+Pokolenie nr=  978 najlepszy=  0(dl=17.278505), najgorszy= 90(dl=20.475031), œrednia_dl=19.656563
+Pokolenie nr=  979 najlepszy=  0(dl=17.278505), najgorszy= 74(dl=20.302715), œrednia_dl=19.505725
+Pokolenie nr=  980 najlepszy=  0(dl=17.278505), najgorszy=100(dl=21.114819), œrednia_dl=19.746169
+Pokolenie nr=  981 najlepszy=  0(dl=17.278505), najgorszy= 96(dl=19.612736), œrednia_dl=19.560345
+Pokolenie nr=  982 najlepszy=  0(dl=17.278505), najgorszy=121(dl=22.875031), œrednia_dl=19.587892
+Pokolenie nr=  983 najlepszy=  0(dl=17.278505), najgorszy=  9(dl=20.475031), œrednia_dl=19.499519
+Pokolenie nr=  984 najlepszy=  0(dl=17.278505), najgorszy= 75(dl=22.995646), œrednia_dl=19.713992
+Pokolenie nr=  985 najlepszy=  0(dl=17.278505), najgorszy= 25(dl=19.612108), œrednia_dl=19.624788
+Pokolenie nr=  986 najlepszy=  0(dl=17.278505), najgorszy= 68(dl=21.884722), œrednia_dl=19.635386
+Pokolenie nr=  987 najlepszy=  0(dl=17.278505), najgorszy= 45(dl=22.321871), œrednia_dl=19.723465
+Pokolenie nr=  988 najlepszy=  0(dl=17.278505), najgorszy= 65(dl=21.466125), œrednia_dl=19.508807
+Pokolenie nr=  989 najlepszy=  0(dl=17.278505), najgorszy= 91(dl=22.446255), œrednia_dl=19.564960
+Pokolenie nr=  990 najlepszy=  0(dl=17.278505), najgorszy= 65(dl=21.072357), œrednia_dl=19.475211
+Pokolenie nr=  991 najlepszy=  0(dl=17.278505), najgorszy=  5(dl=18.947307), œrednia_dl=19.441288
+Pokolenie nr=  992 najlepszy=  0(dl=17.278505), najgorszy= 57(dl=22.875031), œrednia_dl=19.474477
+Pokolenie nr=  993 najlepszy=  0(dl=17.278505), najgorszy= 52(dl=20.475031), œrednia_dl=19.445520
+Pokolenie nr=  994 najlepszy=  0(dl=17.278505), najgorszy=130(dl=20.475031), œrednia_dl=19.321954
+Pokolenie nr=  995 najlepszy=  0(dl=17.278505), najgorszy=  8(dl=19.612736), œrednia_dl=19.429613
+Pokolenie nr=  996 najlepszy=  0(dl=17.278505), najgorszy= 75(dl=20.475031), œrednia_dl=19.670348
+Pokolenie nr=  997 najlepszy=  0(dl=17.278505), najgorszy= 35(dl=20.475031), œrednia_dl=19.501066
+Pokolenie nr=  998 najlepszy=  0(dl=17.278505), najgorszy=  3(dl=22.995646), œrednia_dl=19.736219
+Pokolenie nr=  999 najlepszy=  0(dl=17.278505), najgorszy= 29(dl=20.269302), œrednia_dl=19.489282
